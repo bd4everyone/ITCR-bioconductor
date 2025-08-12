@@ -48,7 +48,7 @@ cursor: pointer;
       <td>waldronlab</td>
       <td>Bioconductor package for management of multi-assay data</td>
       <td>73</td>
-      <td>2025-08-08</td>
+      <td>2025-08-12</td>
     </tr>
     <tr>
       <td><a href="https://www.bioconductor.org/packages/release/bioc/html/BiocParallel.html" target="_blank" style="color: red;">BiocParallel</a><a href="https://github.com/Bioconductor/BiocParallel" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://www.bioconductor.org/packages/release/bioc/html/BiocParallel.html" target="_blank"> </a></td>
@@ -247,13 +247,6 @@ cursor: pointer;
       <td>2025-08-01</td>
     </tr>
     <tr>
-      <td><a href="https://bioconductor.org/packages/release/bioc/html/OmicsMLRepoR.html" target="_blank" style="color: red;">OmicsMLRepoR</a><a href="https://github.com/shbrief/OmicsMLRepoR" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/release/bioc/html/OmicsMLRepoR.html" target="_blank"> </a></td>
-      <td>shbrief</td>
-      <td>Bioconductor package to access the harmonized metadata through ontology</td>
-      <td>2</td>
-      <td>2025-07-26</td>
-    </tr>
-    <tr>
       <td><a href="https://bioconductor.org/packages/release/bioc/html/GenomicFiles.html" target="_blank" style="color: red;">GenomicFiles</a><a href="https://github.com/Bioconductor/GenomicFiles" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/release/bioc/html/GenomicFiles.html" target="_blank"> </a></td>
       <td>Bioconductor</td>
       <td>Distributed computing by file or by range</td>
@@ -266,6 +259,13 @@ cursor: pointer;
       <td>Cancer Data Science resources for DFCI YES for CURE</td>
       <td>2</td>
       <td>2024-10-30</td>
+    </tr>
+    <tr>
+      <td><a href="https://bioconductor.org/packages/release/bioc/html/OmicsMLRepoR.html" target="_blank" style="color: red;">OmicsMLRepoR</a><a href="https://github.com/shbrief/OmicsMLRepoR" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/release/bioc/html/OmicsMLRepoR.html" target="_blank"> </a></td>
+      <td>shbrief</td>
+      <td>Bioconductor package to access the harmonized metadata through ontology</td>
+      <td>2</td>
+      <td>2025-07-26</td>
     </tr>
     <tr>
       <td>refinebioc<a href="https://github.com/seandavi/refinebioc" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
@@ -296,18 +296,18 @@ cursor: pointer;
       <td>2025-05-09</td>
     </tr>
     <tr>
-      <td><a href="https://bioconductor.org/packages/release/bioc/html/xenLite.html" target="_blank" style="color: red;">xenLite</a><a href="https://github.com/vjcitn/xenLite" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/release/bioc/html/xenLite.html" target="_blank"> </a></td>
-      <td>vjcitn</td>
-      <td>Lightweight approach to managing Xenium experiments</td>
-      <td>1</td>
-      <td>2024-11-27</td>
-    </tr>
-    <tr>
       <td>BiocHubsIngestR<a href="https://github.com/Bioconductor/BiocHubsIngestR" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
       <td>Bioconductor</td>
       <td>Helper package for users to upload data to temporary BiocHubsIngest endpoints</td>
       <td>1</td>
       <td>2025-02-27</td>
+    </tr>
+    <tr>
+      <td><a href="https://bioconductor.org/packages/release/bioc/html/xenLite.html" target="_blank" style="color: red;">xenLite</a><a href="https://github.com/vjcitn/xenLite" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/release/bioc/html/xenLite.html" target="_blank"> </a></td>
+      <td>vjcitn</td>
+      <td>Lightweight approach to managing Xenium experiments</td>
+      <td>1</td>
+      <td>2024-11-27</td>
     </tr>
     <tr>
       <td>TxRegInfra2<a href="https://github.com/vjcitn/TxRegInfra2" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
@@ -331,25 +331,18 @@ cursor: pointer;
       <td>2025-07-28</td>
     </tr>
     <tr>
-      <td><a href="https://bioconductor.org/packages/release/bioc/html/XeniumIO.html" target="_blank" style="color: red;">XeniumIO</a><a href="https://github.com/waldronlab/XeniumIO" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/release/bioc/html/XeniumIO.html" target="_blank"> </a></td>
-      <td>waldronlab</td>
-      <td>software for importing 10X Xenium data</td>
-      <td>0</td>
-      <td>2025-07-03</td>
-    </tr>
-    <tr>
-      <td>programets<a href="https://github.com/nih-cfde/programets" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>nih-cfde</td>
-      <td></td>
-      <td>0</td>
-      <td>2025-07-28</td>
-    </tr>
-    <tr>
       <td><a href="https://www.bioconductor.org/packages/release/bioc/html/TENxIO.html" target="_blank" style="color: red;">TENxIO</a><a href="https://github.com/waldronlab/TENxIO" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://www.bioconductor.org/packages/release/bioc/html/TENxIO.html" target="_blank"> </a></td>
       <td>waldronlab</td>
       <td>Bioconductor interface to 10X files</td>
       <td>0</td>
       <td>2025-05-08</td>
+    </tr>
+    <tr>
+      <td><a href="https://bioconductor.org/packages/release/bioc/html/XeniumIO.html" target="_blank" style="color: red;">XeniumIO</a><a href="https://github.com/waldronlab/XeniumIO" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/release/bioc/html/XeniumIO.html" target="_blank"> </a></td>
+      <td>waldronlab</td>
+      <td>software for importing 10X Xenium data</td>
+      <td>0</td>
+      <td>2025-07-03</td>
     </tr>
     <tr>
       <td>hovernethelp<a href="https://github.com/hpages/hovernethelp" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
@@ -359,6 +352,13 @@ cursor: pointer;
       <td>2025-05-22</td>
     </tr>
     <tr>
+      <td>programets<a href="https://github.com/nih-cfde/programets" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
+      <td>nih-cfde</td>
+      <td></td>
+      <td>0</td>
+      <td>2025-07-28</td>
+    </tr>
+    <tr>
       <td>HGNCREST<a href="https://github.com/waldronlab/HGNCREST" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
       <td>waldronlab</td>
       <td>Query the HGNC REST API with R</td>
@@ -366,11 +366,11 @@ cursor: pointer;
       <td>2025-05-09</td>
     </tr>
     <tr>
-      <td>community-bioc-archive<a href="https://github.com/waldronlab/community-bioc-archive" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>waldronlab</td>
-      <td>Text archive of community-bioc Slack public channels</td>
+      <td>U24CancerProject<a href="https://github.com/bd4everyone/U24CancerProject" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
+      <td>bd4everyone</td>
+      <td>Tracking for project 1U24CA289073-01 and aligned efforts</td>
       <td>0</td>
-      <td>2025-05-02</td>
+      <td>2025-08-12</td>
     </tr>
     <tr>
       <td><a href="https://www.bioconductor.org/packages/release/bioc/html/VisiumIO.html" target="_blank" style="color: red;">VisiumIO</a><a href="https://github.com/waldronlab/VisiumIO" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://www.bioconductor.org/packages/release/bioc/html/VisiumIO.html" target="_blank"> </a></td>
@@ -433,7 +433,7 @@ cursor: pointer;
       <td>dcmjs-org</td>
       <td>Javascript implementation of DICOM manipulation</td>
       <td>329</td>
-      <td>2025-08-11</td>
+      <td>2025-08-12</td>
     </tr>
     <tr>
       <td>cornerstoneWADOImageLoader<a href="https://github.com/cornerstonejs/cornerstoneWADOImageLoader" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
@@ -573,7 +573,7 @@ cursor: pointer;
       <td>MD-Anderson-Bioinformatics</td>
       <td>A dynamic, graphical environment for exploration of clustered or non-clustered heat map data in a web browser.</td>
       <td>11</td>
-      <td>2025-08-10</td>
+      <td>2025-08-12</td>
     </tr>
     <tr>
       <td>NGCHM-R<a href="https://github.com/MD-Anderson-Bioinformatics/NGCHM-R" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
@@ -583,7 +583,7 @@ cursor: pointer;
       <td>2025-07-07</td>
     </tr>
     <tr>
-      <td>restfulSE<a href="https://github.com/shwetagopaul92/restfulSE" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
+      <td><a href="https://bioconductor.org/packages/3.18/bioc/html/restfulSE.html" target="_blank" style="color: red;">restfulSE</a><a href="https://github.com/shwetagopaul92/restfulSE" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/3.18/bioc/html/restfulSE.html" target="_blank"> </a></td>
       <td>shwetagopaul92</td>
       <td>demonstration of SummarizedExperiment with assay component retrieved from remote HDF5 server</td>
       <td>10</td>
@@ -660,18 +660,18 @@ cursor: pointer;
       <td>2017-10-24</td>
     </tr>
     <tr>
-      <td>OpenLayersPlugin<a href="https://github.com/OHIF/OpenLayersPlugin" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>OHIF</td>
-      <td>Example OHIF plugin based using OpenLayers</td>
-      <td>1</td>
-      <td>2018-11-21</td>
-    </tr>
-    <tr>
       <td>TxRegInfraObsolete<a href="https://github.com/vjcitn/TxRegInfraObsolete" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
       <td>vjcitn</td>
       <td>Some Bioconductor-oriented infrastructure for TxRegQuery</td>
       <td>1</td>
       <td>2019-07-04</td>
+    </tr>
+    <tr>
+      <td>OpenLayersPlugin<a href="https://github.com/OHIF/OpenLayersPlugin" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
+      <td>OHIF</td>
+      <td>Example OHIF plugin based using OpenLayers</td>
+      <td>1</td>
+      <td>2018-11-21</td>
     </tr>
     <tr>
       <td>dicom4miccai<a href="https://github.com/QIICR/dicom4miccai" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
