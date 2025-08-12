@@ -1,0 +1,2960 @@
+---
+title: "Recent Commit Activity"
+
+format: html
+subtitle: "This site automatically tracks a curated list of GitHub projects funded by NIH grant [1U24CA289073-01](https://reporter.nih.gov/project-details/10865962 ) from the National Cancer Institute to Levi Waldron at the CUNY Graduate School of Public Health and Health Policy" 
+
+toc: false
+sidebar: false
+---
+
+### [`OHIF/Viewers`](https://github.com/OHIF/Viewers/commit/ede7c4e3eee8db7332457ca96ed6fa8204c5cd4d)
+
+**Message:** chore(version): Update package versions [skip ci]
+
+**Author:** ohif-bot
+
+**Date:** 2025-08-11 18:10:59 UTC
+
+---
+
+### [`OHIF/Viewers`](https://github.com/OHIF/Viewers/commit/a055cfe924b4217a080c4a26477a497da5bdd187)
+
+**Message:** chore(version): version.json [skip ci]
+
+**Author:** ohif-bot
+
+**Date:** 2025-08-11 18:10:51 UTC
+
+---
+
+### [`OHIF/Viewers`](https://github.com/OHIF/Viewers/commit/0e83f4515c902ffa3dbab2d68ec81b93881e1768)
+
+**Message:** fix: Update Dockerfile (#5319)
+
+**Author:** Ujjwal Kumar Baranwal
+
+**Date:** 2025-08-11 18:06:07 UTC
+
+---
+
+### [`OHIF/Viewers`](https://github.com/OHIF/Viewers/commit/51b2303b0a72cf8827968162d256a14a6a8d6d09)
+
+**Message:** chore(version): Update package versions [skip ci]
+
+**Author:** ohif-bot
+
+**Date:** 2025-08-11 14:41:28 UTC
+
+---
+
+### [`OHIF/Viewers`](https://github.com/OHIF/Viewers/commit/078cac76bfed47a2e7a3396379d125867db81cc0)
+
+**Message:** chore(version): version.json [skip ci]
+
+**Author:** ohif-bot
+
+**Date:** 2025-08-11 14:41:21 UTC
+
+---
+
+### [`cornerstonejs/cornerstone3D`](https://github.com/cornerstonejs/cornerstone3D/commit/643819927064304e4d9d8a8e8fdb8cffbd59bec2)
+
+**Message:** chore: update generated version file [skip ci]
+
+**Author:** ohif-bot
+
+**Date:** 2025-08-11 14:29:17 UTC
+
+---
+
+### [`cornerstonejs/cornerstone3D`](https://github.com/cornerstonejs/cornerstone3D/commit/2840296f5a0fdf4a0abae0e44fef7ea77cd9d749)
+
+**Message:** chore(version): Update package versions [skip ci]
+
+**Author:** ohif-bot
+
+**Date:** 2025-08-11 14:29:09 UTC
+
+---
+
+### [`cornerstonejs/cornerstone3D`](https://github.com/cornerstonejs/cornerstone3D/commit/501d6de14e0c1d57eaa1f8d39a612fd593564cfa)
+
+**Message:** chore(version): version.json [skip ci]
+
+**Author:** ohif-bot
+
+**Date:** 2025-08-11 14:28:57 UTC
+
+---
+
+### [`cornerstonejs/cornerstone3D`](https://github.com/cornerstonejs/cornerstone3D/commit/9ea91402a277b50cc233382b8d1f09b5725f43ab)
+
+**Message:** fix(annotation): toggle visibility off (#2262)
+
+**Author:** Devu-trenser
+
+**Date:** 2025-08-11 14:25:01 UTC
+
+---
+
+### [`cornerstonejs/cornerstone3D`](https://github.com/cornerstonejs/cornerstone3D/commit/670a27bd425cc0866a931ce62c9f26f6e6b1fabb)
+
+**Message:** chore: update generated version file [skip ci]
+
+**Author:** ohif-bot
+
+**Date:** 2025-08-11 13:59:03 UTC
+
+---
+
+### [`waldronlab/MultiAssayExperiment`](https://github.com/waldronlab/MultiAssayExperiment/commit/ff721594586f1071f7fb32677c34293c985ded98)
+
+**Message:** version bump 1.35.7
+
+**Author:** LiNk-NY
+
+**Date:** 2025-08-08 20:18:13 UTC
+
+---
+
+### [`waldronlab/MultiAssayExperiment`](https://github.com/waldronlab/MultiAssayExperiment/commit/18ce3853af121cf27dead1df3a8c01af3c5f4f4e)
+
+**Message:** minor updates
+
+**Author:** LiNk-NY
+
+**Date:** 2025-08-08 20:18:07 UTC
+
+---
+
+### [`waldronlab/MultiAssayExperiment`](https://github.com/waldronlab/MultiAssayExperiment/commit/afc18063652028e9c0f05ef040346bdc6e6880a9)
+
+**Message:** update ignore files
+
+**Author:** LiNk-NY
+
+**Date:** 2025-08-08 20:17:56 UTC
+
+---
+
+### [`waldronlab/MultiAssayExperiment`](https://github.com/waldronlab/MultiAssayExperiment/commit/87c4d26417f210dae5a43c5f37280e375f743879)
+
+**Message:** update vignette subsetting explanation, closes #342
+
+**Author:** LiNk-NY
+
+**Date:** 2025-08-08 20:17:12 UTC
+
+---
+
+### [`dcmjs-org/dcmjs`](https://github.com/dcmjs-org/dcmjs/commit/2ca6bb1e86daf528a10c28585a02fe37bbbf1025)
+
+**Message:** fix: Save/load large explicit encoding values (#450)
+
+**Author:** Bill Wallace
+
+**Date:** 2025-08-07 14:39:58 UTC
+
+---
+
+### [`dcmjs-org/dcmjs`](https://github.com/dcmjs-org/dcmjs/commit/65536e2fcaa91411b8de02981c9dfd235fc93ab8)
+
+**Message:** build(deps): bump form-data from 3.0.1 to 3.0.4 (#446)
+
+**Author:** dependabot[bot]
+
+**Date:** 2025-08-07 01:33:35 UTC
+
+---
+
+### [`dcmjs-org/dcmjs`](https://github.com/dcmjs-org/dcmjs/commit/c20817e34dcb9c3114a64ac7d8fd285798ddd93a)
+
+**Message:** feat: support DICOMs with missing meta length tag (#449)
+
+**Author:** Ofek Bashan
+
+**Date:** 2025-08-06 22:23:46 UTC
+
+---
+
+### [`shbrief/curatedMetagenomicDataODM`](https://github.com/shbrief/curatedMetagenomicDataODM/commit/37df7650985db64f0e06b72728dab7909a391ce8)
+
+**Message:** handling updated delimiter
+
+**Author:** Sehyun Oh
+
+**Date:** 2025-07-28 18:48:32 UTC
+
+---
+
+### [`shbrief/OmicsMLRepoR`](https://github.com/shbrief/OmicsMLRepoR/commit/a3469d87af4166ea3a4295b0658aa81f0ec9c292)
+
+**Message:** version bump
+
+**Author:** Sehyun Oh
+
+**Date:** 2025-07-26 18:09:08 UTC
+
+---
+
+### [`shbrief/OmicsMLRepoR`](https://github.com/shbrief/OmicsMLRepoR/commit/bf028a8c5cac3cfecba9cc53e5331f93302eaadd)
+
+**Message:** Merge pull request #50 from shbrief/feature_ontoSummarize
+
+**Author:** Sehyun Oh
+
+**Date:** 2025-07-26 17:52:38 UTC
+
+---
+
+### [`shbrief/OmicsMLRepoR`](https://github.com/shbrief/OmicsMLRepoR/commit/fec4878db887b6f53ac2e1c84d5cec9ef4017e96)
+
+**Message:** Merge branch 'devel' into feature_ontoSummarize
+
+**Author:** Sehyun Oh
+
+**Date:** 2025-07-26 17:52:30 UTC
+
+---
+
+### [`shbrief/OmicsMLRepoR`](https://github.com/shbrief/OmicsMLRepoR/commit/9f03f07211f7a9deb727ce6ca7574c0a731beb27)
+
+**Message:** updated metadata
+
+**Author:** Sehyun Oh
+
+**Date:** 2025-07-26 17:48:31 UTC
+
+---
+
+### [`shbrief/OmicsMLRepoR`](https://github.com/shbrief/OmicsMLRepoR/commit/199efbcec42e8512ef3b8d57d4a48d148eb40009)
+
+**Message:** add cBioPortal data dictionary
+
+**Author:** Sehyun Oh
+
+**Date:** 2025-07-26 17:45:20 UTC
+
+---
+
+### [`waldronlab/OmicsMLRepoData`](https://github.com/waldronlab/OmicsMLRepoData/commit/83565d766632da633be09c9d309fdc264450196d)
+
+**Message:** update cMD data dictionary
+
+**Author:** Sehyun Oh
+
+**Date:** 2025-07-26 15:30:32 UTC
+
+---
+
+### [`waldronlab/OmicsMLRepoData`](https://github.com/waldronlab/OmicsMLRepoData/commit/179d8b4fca85969b00b5a4226e1da4bfd2bf32f5)
+
+**Message:** update cBioPortal data dictionary
+
+**Author:** Sehyun Oh
+
+**Date:** 2025-07-26 15:29:04 UTC
+
+---
+
+### [`shbrief/curatedMetagenomicDataODM`](https://github.com/shbrief/curatedMetagenomicDataODM/commit/ff26cc4cee4d37748f626a21c69a90aad484b624)
+
+**Message:** update delimiter
+
+**Author:** Sehyun Oh
+
+**Date:** 2025-07-25 22:53:37 UTC
+
+---
+
+### [`waldronlab/OmicsMLRepoData`](https://github.com/waldronlab/OmicsMLRepoData/commit/bdb8534f70498150bbab791b92ee51655c508ca6)
+
+**Message:** updated curations
+
+**Author:** Sehyun Oh
+
+**Date:** 2025-07-25 19:38:11 UTC
+
+---
+
+### [`waldronlab/OmicsMLRepoData`](https://github.com/waldronlab/OmicsMLRepoData/commit/e7d55143350b103430c3e37f57fb071c9d3849f9)
+
+**Message:** oncotree map
+
+**Author:** Sehyun Oh
+
+**Date:** 2025-07-25 19:37:22 UTC
+
+---
+
+### [`waldronlab/OmicsMLRepoData`](https://github.com/waldronlab/OmicsMLRepoData/commit/f537a479f85d257372b93cccb878b41457bc93cf)
+
+**Message:** updated cMD metadata
+
+**Author:** Sehyun Oh
+
+**Date:** 2025-07-25 19:35:12 UTC
+
+---
+
+### [`Bioconductor/AnnotationHub`](https://github.com/Bioconductor/AnnotationHub/commit/11758ef932695f2b2294f0a81376b64ef7065f87)
+
+**Message:** Merge pull request #63 from Bioconductor/selectSome
+
+**Author:** lshep
+
+**Date:** 2025-07-25 12:12:30 UTC
+
+---
+
+### [`waldronlab/MultiAssayExperiment`](https://github.com/waldronlab/MultiAssayExperiment/commit/0ed7ef7ac594c12e585850c07dcb2a277899df27)
+
+**Message:** version bump 1.35.6
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-23 16:21:41 UTC
+
+---
+
+### [`waldronlab/bedbaser`](https://github.com/waldronlab/bedbaser/commit/54e87308eeb9e20b2d63cce7dc060862b0315b8d)
+
+**Message:** Update action, use release for pkgdown site (#19)
+
+**Author:** jwokaty
+
+**Date:** 2025-07-22 14:24:42 UTC
+
+---
+
+### [`waldronlab/curatedTCGAData`](https://github.com/waldronlab/curatedTCGAData/commit/00a83d5386ddddbf4dde7b464d6b83e575160d1f)
+
+**Message:** version bump 1.31.2
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-21 19:17:15 UTC
+
+---
+
+### [`waldronlab/curatedTCGAData`](https://github.com/waldronlab/curatedTCGAData/commit/45feb0097243b5194c00c564b0349aff65336217)
+
+**Message:** add chunk labels to vignette
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-21 19:17:13 UTC
+
+---
+
+### [`waldronlab/cBioPortalData`](https://github.com/waldronlab/cBioPortalData/commit/acba625192ad8a8bfabd261132c644ed77ddea5b)
+
+**Message:** version bump 2.21.5
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-21 19:12:16 UTC
+
+---
+
+### [`waldronlab/cBioPortalData`](https://github.com/waldronlab/cBioPortalData/commit/ad778c123b1e04bff7117ab9ccc244955ef3dfcf)
+
+**Message:** add chunk labels to vignettes
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-21 19:11:37 UTC
+
+---
+
+### [`waldronlab/cBioPortalData`](https://github.com/waldronlab/cBioPortalData/commit/8173b25047b02c6a14b64c55f0a7e068a07d11ed)
+
+**Message:** avoid NSE subset
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-21 19:11:18 UTC
+
+---
+
+### [`waldronlab/cBioPortalData`](https://github.com/waldronlab/cBioPortalData/commit/27ff6f3626c23d6166b42aae0df884e2003eca87)
+
+**Message:** shorten line to 80 width limit
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-21 19:08:37 UTC
+
+---
+
+### [`Bioconductor/GenomicFiles`](https://github.com/Bioconductor/GenomicFiles/commit/53f71f2faab38c932692d0d0b96a31d706ceac75)
+
+**Message:** version bump 1.45.2
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-21 15:45:02 UTC
+
+---
+
+### [`Bioconductor/GenomicFiles`](https://github.com/Bioconductor/GenomicFiles/commit/c69bd022767809b74fe19a03231849e13a7978cf)
+
+**Message:** add URL and BugReports
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-21 15:44:56 UTC
+
+---
+
+### [`Bioconductor/GenomicFiles`](https://github.com/Bioconductor/GenomicFiles/commit/8ec78d2691dfdeec690739198fac37f9ce8c50f9)
+
+**Message:** remove whitespaces
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-21 15:44:45 UTC
+
+---
+
+### [`Bioconductor/GenomicFiles`](https://github.com/Bioconductor/GenomicFiles/commit/f532033bb03269489b2a0f753c5b5425cedacd4d)
+
+**Message:** update versions in DESC
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-21 15:43:53 UTC
+
+---
+
+### [`Bioconductor/GenomicFiles`](https://github.com/Bioconductor/GenomicFiles/commit/c5e381900773eaa1ad6e1cc299918a3bfbc4f168)
+
+**Message:** format DESCRIPTION
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-21 15:42:32 UTC
+
+---
+
+### [`Bioconductor/SparseArray`](https://github.com/Bioconductor/SparseArray/commit/0a2c62a32979b9bc89499621bddb5a8e8520a568)
+
+**Message:** SparseArray 1.9.1
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-07-18 05:10:47 UTC
+
+---
+
+### [`Bioconductor/AnnotationHub`](https://github.com/Bioconductor/AnnotationHub/commit/f3bfe3e99b22f3eb9caf3a428f5022e039580e5d)
+
+**Message:** use BiocBaseUtils::selectSome
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-17 19:28:50 UTC
+
+---
+
+### [`QIICR/dcmqi`](https://github.com/QIICR/dcmqi/commit/afa4912fb05817fb8632ca0141618d52ac219510)
+
+**Message:** Fix DCMTK version comment (3.6.9++ not 3.6.8++)
+
+**Author:** Michael Onken
+
+**Date:** 2025-07-17 11:55:58 UTC
+
+---
+
+### [`QIICR/dcmqi`](https://github.com/QIICR/dcmqi/commit/bd2015c3b78f7d0e9743f1cea469870da8f3c1e1)
+
+**Message:** Switch to windows-2022 runner for publish step.
+
+**Author:** Michael Onken
+
+**Date:** 2025-07-16 19:35:34 UTC
+
+---
+
+### [`QIICR/dcmqi`](https://github.com/QIICR/dcmqi/commit/09e1833e24d07a9f3eeba6c07a8442a1ce39dd66)
+
+**Message:** Switch to official DCMTK 3.6.8++ (June 6th 2025).
+
+**Author:** Michael Onken
+
+**Date:** 2025-07-16 18:24:49 UTC
+
+---
+
+### [`Bioconductor/BiocFileCache`](https://github.com/Bioconductor/BiocFileCache/commit/0f8c62bf901f940a155829588d94828f3b11041f)
+
+**Message:** Merge pull request #65 from Bioconductor/bfc-from-df
+
+**Author:** lshep
+
+**Date:** 2025-07-16 16:51:49 UTC
+
+---
+
+### [`Bioconductor/ExperimentHub`](https://github.com/Bioconductor/ExperimentHub/commit/f2a82b504abea3cf7eb9806afc5c12229a5c3e70)
+
+**Message:** Merge pull request #50 from Bioconductor/pkgdown_prep
+
+**Author:** lshep
+
+**Date:** 2025-07-16 16:51:02 UTC
+
+---
+
+### [`Bioconductor/AnnotationHub`](https://github.com/Bioconductor/AnnotationHub/commit/fa85eadf3f0d059fdebb4d64f7043ed9ab50d537)
+
+**Message:** Merge pull request #62 from Bioconductor/bioccheck_updates
+
+**Author:** lshep
+
+**Date:** 2025-07-16 16:48:47 UTC
+
+---
+
+### [`waldronlab/bedbaser`](https://github.com/waldronlab/bedbaser/commit/7a7e8055777f3d73f2847126de368721da6f6c38)
+
+**Message:** Bump to 1.1.2
+
+**Author:** Wokaty
+
+**Date:** 2025-07-16 15:48:23 UTC
+
+---
+
+### [`waldronlab/bedbaser`](https://github.com/waldronlab/bedbaser/commit/9fe0fcf6257d6f1054357ca7ff34c72c66674990)
+
+**Message:** Remove bigbed from vignettes
+
+**Author:** Wokaty
+
+**Date:** 2025-07-16 15:47:50 UTC
+
+---
+
+### [`waldronlab/bedbaser`](https://github.com/waldronlab/bedbaser/commit/8500979e64a4c0a415064f39454c33e25c1c3c84)
+
+**Message:** Use release branch
+
+**Author:** Wokaty
+
+**Date:** 2025-07-16 14:21:27 UTC
+
+---
+
+### [`seandavi/BiocPkgTools`](https://github.com/seandavi/BiocPkgTools/commit/0a55068957d1655ee77801b691691f40c85cbdab)
+
+**Message:** version bump 1.27.9
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-15 18:23:40 UTC
+
+---
+
+### [`seandavi/BiocPkgTools`](https://github.com/seandavi/BiocPkgTools/commit/0adb6e0efd50d609b67e72bb4f82192d0a9a00f9)
+
+**Message:** update NEWS
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-15 18:22:09 UTC
+
+---
+
+### [`seandavi/BiocPkgTools`](https://github.com/seandavi/BiocPkgTools/commit/0218f71f62e3bb045efefc5b0724ef6efd4453bf)
+
+**Message:** use pkgndep to generate dependency_heatmap
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-15 18:20:53 UTC
+
+---
+
+### [`seandavi/BiocPkgTools`](https://github.com/seandavi/BiocPkgTools/commit/590d02ee3efca4ef1ec9714d81af8377e1a69ea3)
+
+**Message:** update formatting of template
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-15 18:20:35 UTC
+
+---
+
+### [`seandavi/BiocPkgTools`](https://github.com/seandavi/BiocPkgTools/commit/2d334a5b417cc398822b591b81956625b8195cc6)
+
+**Message:** update title
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-15 18:20:01 UTC
+
+---
+
+### [`waldronlab/bedbaser`](https://github.com/waldronlab/bedbaser/commit/d8e58c8c99becf59e16a4194e724d666ced3cc94)
+
+**Message:** Remove devel in action
+
+**Author:** Wokaty
+
+**Date:** 2025-07-15 14:26:38 UTC
+
+---
+
+### [`Bioconductor/BiocFileCache`](https://github.com/Bioconductor/BiocFileCache/commit/9cfbd1d0e295775ffdfc123d28470587a018188f)
+
+**Message:** add makeBiocFileCacheFromDataFrame example
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-15 00:21:42 UTC
+
+---
+
+### [`Bioconductor/ExperimentHub`](https://github.com/Bioconductor/ExperimentHub/commit/775f62a471e55c24e597a1df0ad575221fbff6f5)
+
+**Message:** load namespace and attach to search list
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-14 23:56:25 UTC
+
+---
+
+### [`Bioconductor/AnnotationHub`](https://github.com/Bioconductor/AnnotationHub/commit/ad2ed509d2a4651c83ba1c87e8fb33022a732297)
+
+**Message:** expand example in convertHub doc
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-14 23:37:51 UTC
+
+---
+
+### [`dcmjs-org/dcmjs`](https://github.com/dcmjs-org/dcmjs/commit/f9dac44ed6676751847d78ee2ce4ae603afc0910)
+
+**Message:** fix(data): Use an array of data for BufferStream (#444)
+
+**Author:** Bill Wallace
+
+**Date:** 2025-07-14 18:04:19 UTC
+
+---
+
+### [`Bioconductor/RaggedExperiment`](https://github.com/Bioconductor/RaggedExperiment/commit/4cb9ce7518ddda891309a239ba5af84b3bb64055)
+
+**Message:** version bump 1.33.7
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-10 18:19:28 UTC
+
+---
+
+### [`Bioconductor/RaggedExperiment`](https://github.com/Bioconductor/RaggedExperiment/commit/956b071e538af4d55d20d9b11c7586ee95abd2a2)
+
+**Message:** roxygen package Rd update
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-10 18:19:22 UTC
+
+---
+
+### [`Bioconductor/RaggedExperiment`](https://github.com/Bioconductor/RaggedExperiment/commit/1a997f8542f9f8dde0c5a671b71bf69081a11a71)
+
+**Message:** move chunk options to code chunk body
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-10 18:19:09 UTC
+
+---
+
+### [`Bioconductor/RaggedExperiment`](https://github.com/Bioconductor/RaggedExperiment/commit/ff60b8f4a54f73b7d7853632144fca0fa94aad9f)
+
+**Message:** version bump 1.33.6
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-10 17:55:39 UTC
+
+---
+
+### [`Bioconductor/RaggedExperiment`](https://github.com/Bioconductor/RaggedExperiment/commit/ad5aeb963a9264a0750dafd366cac4807a06e038)
+
+**Message:** remove long link
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-10 17:55:27 UTC
+
+---
+
+### [`dcmjs-org/dcmjs`](https://github.com/dcmjs-org/dcmjs/commit/315a829d89e55373f725992ceff967dea9519240)
+
+**Message:** feat(build): Create minified UMD build (#443)
+
+**Author:** Harm van Zeeland
+
+**Date:** 2025-07-10 12:36:59 UTC
+
+---
+
+### [`bd4everyone/u24Project`](https://github.com/bd4everyone/u24Project/commit/b489979e1da435cefcaa6807838b5ad8e08cf5d8)
+
+**Message:** Create jekyll-gh-pages.yml
+
+**Author:** bd4everyone
+
+**Date:** 2025-07-08 17:37:10 UTC
+
+---
+
+### [`bd4everyone/u24Project`](https://github.com/bd4everyone/u24Project/commit/86bc22d4fed90774ae665f271a2ed15403020d09)
+
+**Message:** Delete docs directory
+
+**Author:** bd4everyone
+
+**Date:** 2025-07-08 17:28:57 UTC
+
+---
+
+### [`bd4everyone/u24Project`](https://github.com/bd4everyone/u24Project/commit/1fce18551611f58906fe5110ad18f9d04ee26735)
+
+**Message:** Create empty
+
+**Author:** bd4everyone
+
+**Date:** 2025-07-08 17:28:33 UTC
+
+---
+
+### [`bd4everyone/u24Project`](https://github.com/bd4everyone/u24Project/commit/dbba4e902b58cd698167eaecb5cc6ee7c2cafbf5)
+
+**Message:** Update index.md
+
+**Author:** bd4everyone
+
+**Date:** 2025-07-08 17:07:17 UTC
+
+---
+
+### [`bd4everyone/u24Project`](https://github.com/bd4everyone/u24Project/commit/4c1e81f9fba093a83dbbbbf40e1fd95789b921b6)
+
+**Message:** Update index.md
+
+**Author:** bd4everyone
+
+**Date:** 2025-07-08 17:06:54 UTC
+
+---
+
+### [`waldronlab/XeniumIO`](https://github.com/waldronlab/XeniumIO/commit/94e988c170a91a576ddb9c32ef1d3d302019539d)
+
+**Message:** version bump 1.1.3
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-03 20:58:11 UTC
+
+---
+
+### [`waldronlab/XeniumIO`](https://github.com/waldronlab/XeniumIO/commit/a7516775c1b54f9d0239de82f54171855763fb17)
+
+**Message:** remove rtype arg from bfcdownload
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-03 20:58:09 UTC
+
+---
+
+### [`waldronlab/cBioPortalData`](https://github.com/waldronlab/cBioPortalData/commit/28ec34054b440f2e3d51e0bfda877917b67d25e8)
+
+**Message:** version bump 2.21.4
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-02 20:34:20 UTC
+
+---
+
+### [`waldronlab/MultiAssayWorkshop`](https://github.com/waldronlab/MultiAssayWorkshop/commit/0deb00bac8c04a883156bbc6545f15894e85cc34)
+
+**Message:** add concurrency limits
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-02 17:44:25 UTC
+
+---
+
+### [`waldronlab/MultiAssayWorkshop`](https://github.com/waldronlab/MultiAssayWorkshop/commit/cf8ca4150a07e94e64d16564e0807f313804376f)
+
+**Message:** use multiline sep
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-02 16:18:27 UTC
+
+---
+
+### [`waldronlab/TCGAutils`](https://github.com/waldronlab/TCGAutils/commit/bafe4cea87ec74a66906299649b46814666bb0c3)
+
+**Message:** bump version 1.29.5
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-02 16:15:08 UTC
+
+---
+
+### [`waldronlab/TCGAutils`](https://github.com/waldronlab/TCGAutils/commit/c507a4cbc51ca15af17c29df28614c5476cb7e63)
+
+**Message:** import genome and genome<- from Seqinfo
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-02 16:10:13 UTC
+
+---
+
+### [`waldronlab/TCGAutils`](https://github.com/waldronlab/TCGAutils/commit/372581c03a6f3065c2cf9d20bf39f907c806c129)
+
+**Message:** add GenomeInfoDb to vignette
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-02 16:09:54 UTC
+
+---
+
+### [`waldronlab/MultiAssayWorkshop`](https://github.com/waldronlab/MultiAssayWorkshop/commit/6e5aa99202c69862c95090a4a5578a608b145c7e)
+
+**Message:** version bump 3.21.4
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-02 16:01:21 UTC
+
+---
+
+### [`waldronlab/MultiAssayWorkshop`](https://github.com/waldronlab/MultiAssayWorkshop/commit/e2e928155a2d6d222360c4b3f6563bded4774bb4)
+
+**Message:** move Date close to Version
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-02 16:00:37 UTC
+
+---
+
+### [`waldronlab/MultiAssayWorkshop`](https://github.com/waldronlab/MultiAssayWorkshop/commit/b863ab856356782abf8e3a617589ea414545bf02)
+
+**Message:** rename longFormat to longForm
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-02 15:52:39 UTC
+
+---
+
+### [`waldronlab/TCGAutils`](https://github.com/waldronlab/TCGAutils/commit/260183dc4bdce6cd0fc0fa401f22ce448b2436c7)
+
+**Message:** version bump 1.29.4
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-02 15:24:46 UTC
+
+---
+
+### [`waldronlab/TCGAutils`](https://github.com/waldronlab/TCGAutils/commit/40a570c8fee209f9e4831e01cb2cd000bca2f718)
+
+**Message:** add package argument to lifeCycle
+
+**Author:** LiNk-NY
+
+**Date:** 2025-07-02 15:24:44 UTC
+
+---
+
+### [`Bioconductor/AnnotationHub`](https://github.com/Bioconductor/AnnotationHub/commit/21cf78944d2680027df20094bbdf794bd423e7f4)
+
+**Message:** AnnotationHub 3.99.6: Add Seqinfo to Suggests
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-06-20 23:18:03 UTC
+
+---
+
+### [`nih-cfde/programets`](https://github.com/nih-cfde/programets/commit/be7891207554f90babe48ab3542ec1a3bc4a0c0a)
+
+**Message:** collapse, if multiple categores/descriptions
+
+**Author:** David Mayer
+
+**Date:** 2025-06-20 15:13:08 UTC
+
+---
+
+### [`Bioconductor/SparseArray`](https://github.com/Bioconductor/SparseArray/commit/b558d0d792275cbf27571d800a3a1d8de370a25f)
+
+**Message:** add sticker (by Charlotte) to README.md
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-06-18 16:19:07 UTC
+
+---
+
+### [`Bioconductor/BiocParallel`](https://github.com/Bioconductor/BiocParallel/commit/abe462ceb59acb88b9e4d0365df28295e14f84a6)
+
+**Message:** Enable bpworkers<- calls on SerialParam (no-op) with user message
+
+**Author:** LiNk-NY
+
+**Date:** 2025-06-18 14:56:30 UTC
+
+---
+
+### [`AIM-Harvard/pyradiomics`](https://github.com/AIM-Harvard/pyradiomics/commit/8ed579383b44806651c463d5e691f3b2b57522ab)
+
+**Message:** Build(deps): Bump the actions group with 2 updates
+
+**Author:** dependabot[bot]
+
+**Date:** 2025-06-16 23:00:55 UTC
+
+---
+
+### [`waldronlab/SingleCellMultiModal`](https://github.com/waldronlab/SingleCellMultiModal/commit/a2ec4f3716a39654bfc132425ca011d519ecaf10)
+
+**Message:** version bump 1.21.3
+
+**Author:** LiNk-NY
+
+**Date:** 2025-06-12 16:44:59 UTC
+
+---
+
+### [`waldronlab/SingleCellMultiModal`](https://github.com/waldronlab/SingleCellMultiModal/commit/1e8f0a6965546c20b45e6f9b630a6a636ea981c9)
+
+**Message:** update vignette authors
+
+**Author:** LiNk-NY
+
+**Date:** 2025-06-12 16:44:54 UTC
+
+---
+
+### [`Bioconductor/BiocParallel`](https://github.com/Bioconductor/BiocParallel/commit/f72fed091af1d15cfe2ce6aca6165d26a263eacb)
+
+**Message:** Transfer maintainership to Jiefei Wang
+
+**Author:** Jiefei Wang
+
+**Date:** 2025-06-12 02:39:17 UTC
+
+---
+
+### [`Bioconductor/BiocParallel`](https://github.com/Bioconductor/BiocParallel/commit/7c2254992a867bbacd26b46f94f0b1c2213f6e6c)
+
+**Message:** version bump 1.43.3
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-28 18:00:44 UTC
+
+---
+
+### [`Bioconductor/BiocParallel`](https://github.com/Bioconductor/BiocParallel/commit/b3aa72c8a147578cc6934108fb7d293bc6e1608d)
+
+**Message:** convert Rnw vignettes to Rmd (#278)
+
+**Author:** Marcel Ramos Pérez
+
+**Date:** 2025-05-28 18:00:02 UTC
+
+---
+
+### [`Bioconductor/S4Arrays`](https://github.com/Bioconductor/S4Arrays/commit/da54bbd15596f255cae532d352038178324d4b09)
+
+**Message:** S4Arrays 1.9.1
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-05-27 20:15:38 UTC
+
+---
+
+### [`nih-cfde/programets`](https://github.com/nih-cfde/programets/commit/9c851a5ca2f666269291a844bd5cc3f31d7f5a1e)
+
+**Message:** Merge pull request #14 from seandavi/5-collect-grant-details-for-all-cfde-projects
+
+**Author:** Sean Davis
+
+**Date:** 2025-05-25 11:32:19 UTC
+
+---
+
+### [`nih-cfde/programets`](https://github.com/nih-cfde/programets/commit/60104de9b76f2410ee26785c39448b3148d0bc2f)
+
+**Message:** add tryCatch for api errors
+
+**Author:** David Mayer
+
+**Date:** 2025-05-23 13:48:09 UTC
+
+---
+
+### [`nih-cfde/programets`](https://github.com/nih-cfde/programets/commit/c93ad0632626f24a65fdfceb1c098597c72d2d2c)
+
+**Message:** document additional project infomation returns
+
+**Author:** David Mayer
+
+**Date:** 2025-05-23 13:41:45 UTC
+
+---
+
+### [`nih-cfde/programets`](https://github.com/nih-cfde/programets/commit/cf70870703d26996a9f0cf621cd3be680cf87010)
+
+**Message:** Depend on R >= 4.1.0 for new pipe
+
+**Author:** David Mayer
+
+**Date:** 2025-05-22 23:07:44 UTC
+
+---
+
+### [`hpages/hovernethelp`](https://github.com/hpages/hovernethelp/commit/d75fd63afa44792259782190ff8653fb1e824f4a)
+
+**Message:** update minicluster/JOURNAL_OF_RUNS.txt
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-05-22 06:19:09 UTC
+
+---
+
+### [`AIM-Harvard/pyradiomics`](https://github.com/AIM-Harvard/pyradiomics/commit/9b1e030bff5241bdf9db1adb796183bb804eec25)
+
+**Message:** Build(deps): Bump codecov/codecov-action in the actions group
+
+**Author:** dependabot[bot]
+
+**Date:** 2025-05-19 22:23:06 UTC
+
+---
+
+### [`AIM-Harvard/pyradiomics`](https://github.com/AIM-Harvard/pyradiomics/commit/7a5fea79ebea06670f547ec39ed9f81813e5a5b0)
+
+**Message:** Refactor code to improve readability and consistency.
+
+**Author:** Hans Johnson
+
+**Date:** 2025-05-19 17:32:54 UTC
+
+---
+
+### [`AIM-Harvard/pyradiomics`](https://github.com/AIM-Harvard/pyradiomics/commit/bca2110bd62aea83abff264882a3d83d939c36d2)
+
+**Message:** Refactor logging to use `logger.exception` for better tracebacks
+
+**Author:** Hans Johnson
+
+**Date:** 2025-05-19 17:25:21 UTC
+
+---
+
+### [`AIM-Harvard/pyradiomics`](https://github.com/AIM-Harvard/pyradiomics/commit/6e600e94c2af6fbf65a65594cbc8919a08d07e64)
+
+**Message:** STYLE: G004: Refactor logging messages for consistency and clarity
+
+**Author:** Hans Johnson
+
+**Date:** 2025-05-19 17:20:11 UTC
+
+---
+
+### [`Bioconductor/BiocParallel`](https://github.com/Bioconductor/BiocParallel/commit/9e2db5de5f145509e494dd7668aefb2b82e6b21f)
+
+**Message:** Merge branch 'Jiefei-Wang-force_load' into devel
+
+**Author:** Martin Morgan
+
+**Date:** 2025-05-16 17:35:30 UTC
+
+---
+
+### [`shbrief/GenomicSuperSignature`](https://github.com/shbrief/GenomicSuperSignature/commit/5d18ff375fef36baf8ec7b2bfb383b7e0f946800)
+
+**Message:** fix conflicting versions
+
+**Author:** Sehyun Oh
+
+**Date:** 2025-05-16 03:16:21 UTC
+
+---
+
+### [`Bioconductor/ExperimentHub`](https://github.com/Bioconductor/ExperimentHub/commit/a616df89683e3112ce41c09cf2178687de799c51)
+
+**Message:** move png to man/figures
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-15 21:24:25 UTC
+
+---
+
+### [`Bioconductor/ExperimentHub`](https://github.com/Bioconductor/ExperimentHub/commit/bda9031660f984b80b6830eb15e41c614a89226f)
+
+**Message:** run runnable examples
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-15 21:24:10 UTC
+
+---
+
+### [`Bioconductor/ExperimentHub`](https://github.com/Bioconductor/ExperimentHub/commit/95348da04ab1a536e9dc05647477ecffbe04eb19)
+
+**Message:** use requireNamespace instead of require
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-15 21:23:59 UTC
+
+---
+
+### [`Bioconductor/h5mread`](https://github.com/Bioconductor/h5mread/commit/52c036adbf717f3221bbb12ed757d674426d8d52)
+
+**Message:** h5mread 1.1.1: Update BugReports field
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-05-15 18:48:59 UTC
+
+---
+
+### [`Bioconductor/BiocFileCache`](https://github.com/Bioconductor/BiocFileCache/commit/e88fb8e4beb200304c4f72f2e07cbe8da6ad49a8)
+
+**Message:** Update Documentation for new options
+
+**Author:** lshep
+
+**Date:** 2025-05-15 13:35:08 UTC
+
+---
+
+### [`shbrief/GenomicSuperSignature`](https://github.com/shbrief/GenomicSuperSignature/commit/26ecc55e05c8896b396c0031215bb2d7c2a8f4b8)
+
+**Message:** Merge pull request #29 from shbrief/RELEASE_3_21
+
+**Author:** Sehyun Oh
+
+**Date:** 2025-05-15 01:33:18 UTC
+
+---
+
+### [`Bioconductor/BiocFileCache`](https://github.com/Bioconductor/BiocFileCache/commit/5c2bda4803740d99a98cd0f14fde664c1f736046)
+
+**Message:** Merge pull request #64 from lshep/proxyBug
+
+**Author:** lshep
+
+**Date:** 2025-05-14 13:48:58 UTC
+
+---
+
+### [`Bioconductor/BiocFileCache`](https://github.com/Bioconductor/BiocFileCache/commit/e3747242089349cd2ff1a6dcda6697513dabf478)
+
+**Message:** Fix version
+
+**Author:** lshep
+
+**Date:** 2025-05-14 13:48:29 UTC
+
+---
+
+### [`waldronlab/oncoKBData`](https://github.com/waldronlab/oncoKBData/commit/d317767bd54a07d6e6ae463f6f6630b04062232a)
+
+**Message:** version bump 0.99.7
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-09 21:26:32 UTC
+
+---
+
+### [`waldronlab/oncoKBData`](https://github.com/waldronlab/oncoKBData/commit/10e2c35b456e8746593698b68aa8eb6c3ca6ec17)
+
+**Message:** import DataFrame constructor
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-09 21:26:28 UTC
+
+---
+
+### [`waldronlab/oncoKBData`](https://github.com/waldronlab/oncoKBData/commit/a2782a49f5d507999097f26780e0c540f649a1eb)
+
+**Message:** version bump 0.99.6
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-09 21:16:21 UTC
+
+---
+
+### [`waldronlab/oncoKBData`](https://github.com/waldronlab/oncoKBData/commit/dd2f745e21fc1324acf70061c05ebad603533668)
+
+**Message:** update RoxygenNote
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-09 21:16:16 UTC
+
+---
+
+### [`waldronlab/oncoKBData`](https://github.com/waldronlab/oncoKBData/commit/fd048cfd3678d8aa7ea90fd7a00dfaa6ff7b5c84)
+
+**Message:** import from S4Vectors
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-09 21:16:08 UTC
+
+---
+
+### [`waldronlab/HGNCREST`](https://github.com/waldronlab/HGNCREST/commit/17d1839656e1ef70ad5cf18a86eaf826d4a8275c)
+
+**Message:** version bump 0.99.6
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-09 16:02:53 UTC
+
+---
+
+### [`waldronlab/HGNCREST`](https://github.com/waldronlab/HGNCREST/commit/dced6debc918241bca2d8acf1315cf4a8a64d357)
+
+**Message:** add .Rbuildignore and update .gitignore
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-09 16:00:09 UTC
+
+---
+
+### [`waldronlab/HGNCREST`](https://github.com/waldronlab/HGNCREST/commit/eafe27812139077f26deec110bbca289c0c2a2e9)
+
+**Message:** add biocViews to DESCRIPTION
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-09 15:58:59 UTC
+
+---
+
+### [`waldronlab/TENxIO`](https://github.com/waldronlab/TENxIO/commit/2f684b16bb8e382f837746658fbc9f4d7fd82e5c)
+
+**Message:** version bump 1.11.4
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-08 18:22:10 UTC
+
+---
+
+### [`waldronlab/GSEABenchmarkeR`](https://github.com/waldronlab/GSEABenchmarkeR/commit/c520218ae428083ea2dc2f8552028372dea29fb0)
+
+**Message:** version bump 1.29.1
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-08 16:44:31 UTC
+
+---
+
+### [`shbrief/GenomicSuperSignature`](https://github.com/shbrief/GenomicSuperSignature/commit/08fd55fc2ba1f088f9fa61d00008b55986cfd5d3)
+
+**Message:** Version bump to trigger rebuilding/propagation of Windows and Mac binaries
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-05-08 16:28:02 UTC
+
+---
+
+### [`waldronlab/CNVRanger`](https://github.com/waldronlab/CNVRanger/commit/82ec0eab97e532e907a535d4d8540308477883ff)
+
+**Message:** version bump 1.25.4
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-08 16:17:16 UTC
+
+---
+
+### [`waldronlab/CNVRanger`](https://github.com/waldronlab/CNVRanger/commit/5bbe13fa14bc9d7c15f7567c511329ce8533e418)
+
+**Message:** fix references
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-08 16:17:11 UTC
+
+---
+
+### [`waldronlab/CNVRanger`](https://github.com/waldronlab/CNVRanger/commit/175c2d1f0c6563765f5be0be74b0b019db110b6d)
+
+**Message:** version bump 1.25.3
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-08 15:04:54 UTC
+
+---
+
+### [`drighelli/SpatialExperiment`](https://github.com/drighelli/SpatialExperiment/commit/0b2953777e17bd031b693315102787afa0f252c8)
+
+**Message:** Merge pull request #167 from lmweber/devel
+
+**Author:** Lukas Weber
+
+**Date:** 2025-05-08 14:03:51 UTC
+
+---
+
+### [`waldronlab/CNVRanger`](https://github.com/waldronlab/CNVRanger/commit/ce91e6ad832586135c12dca258f0b47f2b88b974)
+
+**Message:** use bibliography
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-07 23:56:38 UTC
+
+---
+
+### [`waldronlab/CNVRanger`](https://github.com/waldronlab/CNVRanger/commit/ef20c16453b965e636f26951617d346abe8cbd5e)
+
+**Message:** move png files to man/figures
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-07 22:46:10 UTC
+
+---
+
+### [`drighelli/SpatialExperiment`](https://github.com/drighelli/SpatialExperiment/commit/a8fc00f931fce6b0e31ae58fede5f4488ff4e8e5)
+
+**Message:** version
+
+**Author:** Lukas Weber
+
+**Date:** 2025-05-07 22:28:21 UTC
+
+---
+
+### [`drighelli/SpatialExperiment`](https://github.com/drighelli/SpatialExperiment/commit/8fabc05270c66d850694d5b3b6b58b284e54eca1)
+
+**Message:** update GHA
+
+**Author:** Lukas Weber
+
+**Date:** 2025-05-07 22:27:24 UTC
+
+---
+
+### [`drighelli/SpatialExperiment`](https://github.com/drighelli/SpatialExperiment/commit/3fa5af24083b30b0845a63658913451e14a44da4)
+
+**Message:** update email
+
+**Author:** Lukas Weber
+
+**Date:** 2025-05-07 22:26:51 UTC
+
+---
+
+### [`drighelli/SpatialExperiment`](https://github.com/drighelli/SpatialExperiment/commit/1e55cde8eb2ce9a73bac157b318e2aaa0c18aa66)
+
+**Message:** Merge remote-tracking branch 'upstream/devel' into devel
+
+**Author:** Lukas Weber
+
+**Date:** 2025-05-07 22:22:38 UTC
+
+---
+
+### [`waldronlab/GSEABenchmarkeR`](https://github.com/waldronlab/GSEABenchmarkeR/commit/2cb5fb56ac7c24238b6005a3f309a8643268012d)
+
+**Message:** Merge pull request #17 from waldronlab/build_site_gha
+
+**Author:** lgeistlinger
+
+**Date:** 2025-05-07 22:12:33 UTC
+
+---
+
+### [`waldronlab/GSEABenchmarkeR`](https://github.com/waldronlab/GSEABenchmarkeR/commit/44804cd1979991a6f9675011d4a49a0c6a76c572)
+
+**Message:** resolve build warning and note
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-07 19:39:59 UTC
+
+---
+
+### [`waldronlab/GSEABenchmarkeR`](https://github.com/waldronlab/GSEABenchmarkeR/commit/432effa9398ad4d852756375f794282685f3463c)
+
+**Message:** use Authors@R
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-07 19:35:46 UTC
+
+---
+
+### [`waldronlab/GSEABenchmarkeR`](https://github.com/waldronlab/GSEABenchmarkeR/commit/0e46f4b5b1f13ace6487a84a57b8b66f822c0b25)
+
+**Message:** add _pkgdown.yml and .github/workflows/pr_check.yml GHA
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-07 19:32:24 UTC
+
+---
+
+### [`waldronlab/HGNCREST`](https://github.com/waldronlab/HGNCREST/commit/025d99c9c1ce67c2a226ab73c4c1de32497b67a2)
+
+**Message:** version bump 0.99.5
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-07 15:57:43 UTC
+
+---
+
+### [`waldronlab/HGNCREST`](https://github.com/waldronlab/HGNCREST/commit/f28c6e64a585a1cca4e754199aca74f7bf7103d1)
+
+**Message:** .gitignore html
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-07 15:57:38 UTC
+
+---
+
+### [`waldronlab/VisiumIO`](https://github.com/waldronlab/VisiumIO/commit/0ffa1d44442a5af032702f9514ed5ae161082e5e)
+
+**Message:** version bump 1.5.6
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-07 15:07:34 UTC
+
+---
+
+### [`waldronlab/VisiumIO`](https://github.com/waldronlab/VisiumIO/commit/d856e70231953d64ac4a66b35fc267580f155d79)
+
+**Message:** update .Rbuildignore
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-07 15:07:26 UTC
+
+---
+
+### [`hpages/hovernethelp`](https://github.com/hpages/hovernethelp/commit/2af327c7268b0277848a4873bce4349af9ca8fde)
+
+**Message:** update minicluster/JOURNAL_OF_RUNS.txt
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-05-06 23:28:36 UTC
+
+---
+
+### [`waldronlab/TENxIO`](https://github.com/waldronlab/TENxIO/commit/50b12aa7b0ec98554c60754ff87c4e438328f24f)
+
+**Message:** use integrated HTML sessionInfo
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-06 23:17:29 UTC
+
+---
+
+### [`waldronlab/VisiumIO`](https://github.com/waldronlab/VisiumIO/commit/ca428e7d17c9bb791991413d44c9a64290d9224c)
+
+**Message:** version bump 1.5.5
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-06 23:00:43 UTC
+
+---
+
+### [`waldronlab/VisiumIO`](https://github.com/waldronlab/VisiumIO/commit/a047d6430be0715b65ee2f5e30a623f425b54c56)
+
+**Message:** remove HTML from .Rbuildignore
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-06 23:00:32 UTC
+
+---
+
+### [`waldronlab/VisiumIO`](https://github.com/waldronlab/VisiumIO/commit/fa0e469148bcada0f9ee8bb9afa2c002696b78df)
+
+**Message:** version bump 1.5.4
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-06 22:50:54 UTC
+
+---
+
+### [`waldronlab/XeniumIO`](https://github.com/waldronlab/XeniumIO/commit/302b3c8df75785903fbdd7c230ae241264854c25)
+
+**Message:** version bump 1.1.2
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-06 22:23:23 UTC
+
+---
+
+### [`waldronlab/XeniumIO`](https://github.com/waldronlab/XeniumIO/commit/1eadb5570d00d123536a720555d2ba4f51b494ef)
+
+**Message:** update README.md
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-06 22:23:02 UTC
+
+---
+
+### [`waldronlab/XeniumIO`](https://github.com/waldronlab/XeniumIO/commit/a24595040426f1117bdc5f1bb1bad4ba59651f63)
+
+**Message:** add expandable sessionInfo in HTML
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-06 22:22:50 UTC
+
+---
+
+### [`waldronlab/TENxIO`](https://github.com/waldronlab/TENxIO/commit/27617012b1b64df6a402697e058269f77feabbff)
+
+**Message:** version bump 1.11.3
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-06 21:29:03 UTC
+
+---
+
+### [`waldronlab/TENxIO`](https://github.com/waldronlab/TENxIO/commit/3350fd40582a59788fb99989e6ec5bcabb135af7)
+
+**Message:** add _pkgdown.yml and .github/workflows/pr_check.yml GHA
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-06 21:27:10 UTC
+
+---
+
+### [`waldronlab/TENxIO`](https://github.com/waldronlab/TENxIO/commit/d2ecffbf934a1fd98d209bb0525392becf6508c4)
+
+**Message:** version bump 1.11.2
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-06 21:25:17 UTC
+
+---
+
+### [`waldronlab/SingleCellMultiModal`](https://github.com/waldronlab/SingleCellMultiModal/commit/ccecd624f2e149ad974650ed202ee5addd63fb3c)
+
+**Message:** version bump 1.21.2
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-06 20:21:33 UTC
+
+---
+
+### [`waldronlab/SingleCellMultiModal`](https://github.com/waldronlab/SingleCellMultiModal/commit/bcb3cb9c589fbf0df60608de3e8e96e0e9edf18a)
+
+**Message:** add sticker to README.md
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-06 20:21:25 UTC
+
+---
+
+### [`waldronlab/SingleCellMultiModal`](https://github.com/waldronlab/SingleCellMultiModal/commit/ee797b5da4b43b07d44e01e3d001b77290fe9240)
+
+**Message:** version bump 1.21.1
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-05 21:43:20 UTC
+
+---
+
+### [`waldronlab/curatedTCGAData`](https://github.com/waldronlab/curatedTCGAData/commit/28d4601ebdd0fe997df5c688fc81c55d51de92d0)
+
+**Message:** version bump 1.31.1
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-05 21:32:41 UTC
+
+---
+
+### [`waldronlab/curatedTCGAData`](https://github.com/waldronlab/curatedTCGAData/commit/a13b6ab5acf8787846b9279cb1247ce24c955e88)
+
+**Message:** update CI in .Rbuildignore
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-05 21:31:52 UTC
+
+---
+
+### [`waldronlab/curatedTCGAData`](https://github.com/waldronlab/curatedTCGAData/commit/6c7ebb677a8c2e50374ab0b6f37f0529e3d492b0)
+
+**Message:** add _pkgdown.yml and .github/workflows/pr_check.yml GHA
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-05 21:23:26 UTC
+
+---
+
+### [`waldronlab/curatedOvarianData`](https://github.com/waldronlab/curatedOvarianData/commit/e5f2a11befda9cb0499238d91cbff9972e03a4ed)
+
+**Message:** version bump 1.47.2
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-05 20:56:03 UTC
+
+---
+
+### [`waldronlab/curatedOvarianData`](https://github.com/waldronlab/curatedOvarianData/commit/1c4c95fec616edcc147eac64b142af2938d9f4b2)
+
+**Message:** rename CHANGELOG and reformat NEWS.md
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-05 20:55:56 UTC
+
+---
+
+### [`waldronlab/curatedOvarianData`](https://github.com/waldronlab/curatedOvarianData/commit/790fc5ad975f2002613b62f0171b5bc9a9bbfa6d)
+
+**Message:** update .Rbuildignore and .gitignore
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-05 20:55:37 UTC
+
+---
+
+### [`waldronlab/curatedOvarianData`](https://github.com/waldronlab/curatedOvarianData/commit/12f0dc9efe79ecfd4dadfff3825285531301d896)
+
+**Message:** add R version to fix NOTE
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-05 20:41:13 UTC
+
+---
+
+### [`waldronlab/curatedOvarianData`](https://github.com/waldronlab/curatedOvarianData/commit/dbadfc3faee902534a9f65765c25892d43ba9ce2)
+
+**Message:** fix URL in _pkgdown.yml
+
+**Author:** LiNk-NY
+
+**Date:** 2025-05-05 20:41:03 UTC
+
+---
+
+### [`Bioconductor/DelayedArray`](https://github.com/Bioconductor/DelayedArray/commit/f430b84d082cdb611eaab6c8c3c15cb71996e5a6)
+
+**Message:** DelayedArray 0.35.2
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-04-18 05:48:41 UTC
+
+---
+
+### [`Bioconductor/DelayedArray`](https://github.com/Bioconductor/DelayedArray/commit/af6fb3a86cde174fc2306ba4ff6a26a52ca703aa)
+
+**Message:** DelayedArray 0.35.1
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-04-17 17:33:44 UTC
+
+---
+
+### [`Bioconductor/h5mread`](https://github.com/Bioconductor/h5mread/commit/333cad3e32441f725808d33a9f6c9e91f1b62246)
+
+**Message:** bump x.y.z version to odd y following creation of RELEASE_3_21 branch
+
+**Author:** A Wokaty
+
+**Date:** 2025-04-15 17:45:26 UTC
+
+---
+
+### [`Bioconductor/h5mread`](https://github.com/Bioconductor/h5mread/commit/cc25660812c2ff8569509ea58fbdfab39a4fcf05)
+
+**Message:** bump x.y.z version to even y prior to creation of RELEASE_3_21 branch
+
+**Author:** A Wokaty
+
+**Date:** 2025-04-15 17:45:26 UTC
+
+---
+
+### [`Bioconductor/SparseArray`](https://github.com/Bioconductor/SparseArray/commit/00cb8181f7836e85867ccf982079c7170d60ac7d)
+
+**Message:** bump x.y.z version to odd y following creation of RELEASE_3_21 branch
+
+**Author:** A Wokaty
+
+**Date:** 2025-04-15 17:15:49 UTC
+
+---
+
+### [`Bioconductor/SparseArray`](https://github.com/Bioconductor/SparseArray/commit/ea36777cc56c1e3b515f936d4adf866dad0a8ced)
+
+**Message:** bump x.y.z version to even y prior to creation of RELEASE_3_21 branch
+
+**Author:** A Wokaty
+
+**Date:** 2025-04-15 17:15:49 UTC
+
+---
+
+### [`Bioconductor/S4Arrays`](https://github.com/Bioconductor/S4Arrays/commit/b4d3bc757fb6caf05d8d58fac63ff51626c68200)
+
+**Message:** bump x.y.z version to odd y following creation of RELEASE_3_21 branch
+
+**Author:** A Wokaty
+
+**Date:** 2025-04-15 17:15:41 UTC
+
+---
+
+### [`Bioconductor/S4Arrays`](https://github.com/Bioconductor/S4Arrays/commit/9f3b48000da5a73c2c0cff86b0279b6d22dbc146)
+
+**Message:** bump x.y.z version to even y prior to creation of RELEASE_3_21 branch
+
+**Author:** A Wokaty
+
+**Date:** 2025-04-15 17:15:41 UTC
+
+---
+
+### [`shbrief/GenomicSuperSignature`](https://github.com/shbrief/GenomicSuperSignature/commit/56b06dfb47dd0f8c3995118acba6e05331769b99)
+
+**Message:** bump x.y.z version to odd y following creation of RELEASE_3_21 branch
+
+**Author:** A Wokaty
+
+**Date:** 2025-04-15 16:32:36 UTC
+
+---
+
+### [`shbrief/GenomicSuperSignature`](https://github.com/shbrief/GenomicSuperSignature/commit/3a2997410299133760eb32f02abb5dc7fcfd53d9)
+
+**Message:** bump x.y.z version to even y prior to creation of RELEASE_3_21 branch
+
+**Author:** A Wokaty
+
+**Date:** 2025-04-15 16:32:36 UTC
+
+---
+
+### [`Bioconductor/DelayedArray`](https://github.com/Bioconductor/DelayedArray/commit/8ba82b43b1f623f766ea6a0551196b9b0e14c2c3)
+
+**Message:** bump x.y.z version to odd y following creation of RELEASE_3_21 branch
+
+**Author:** A Wokaty
+
+**Date:** 2025-04-15 15:07:19 UTC
+
+---
+
+### [`Bioconductor/DelayedArray`](https://github.com/Bioconductor/DelayedArray/commit/45b9940d40d76224026fb4f0b66bf7c6ce273fbb)
+
+**Message:** bump x.y.z version to even y prior to creation of RELEASE_3_21 branch
+
+**Author:** A Wokaty
+
+**Date:** 2025-04-15 15:07:19 UTC
+
+---
+
+### [`Bioconductor/HDF5Array`](https://github.com/Bioconductor/HDF5Array/commit/2d9647e8067d666ddaabd7d1ad398a2dd1f6caa8)
+
+**Message:** bump x.y.z version to odd y following creation of RELEASE_3_21 branch
+
+**Author:** A Wokaty
+
+**Date:** 2025-04-15 14:58:57 UTC
+
+---
+
+### [`Bioconductor/HDF5Array`](https://github.com/Bioconductor/HDF5Array/commit/1e32d9f9fc78bddffd1600aee8e46d76fa296b71)
+
+**Message:** bump x.y.z version to even y prior to creation of RELEASE_3_21 branch
+
+**Author:** A Wokaty
+
+**Date:** 2025-04-15 14:58:57 UTC
+
+---
+
+### [`Bioconductor/DelayedArray`](https://github.com/Bioconductor/DelayedArray/commit/cb6a7b742b52f39fcc174489493b44354125f3ba)
+
+**Message:** update NEWS
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-04-15 06:49:59 UTC
+
+---
+
+### [`Bioconductor/S4Arrays`](https://github.com/Bioconductor/S4Arrays/commit/9b6e35aabe01c2d3eb0ff1fc56767bab02336936)
+
+**Message:** update NEWS
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-04-15 06:41:28 UTC
+
+---
+
+### [`Bioconductor/SparseArray`](https://github.com/Bioconductor/SparseArray/commit/4ea70457f06221a03075ce4e626674673f7511db)
+
+**Message:** update NEWS
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-04-15 05:13:09 UTC
+
+---
+
+### [`Bioconductor/HDF5Array`](https://github.com/Bioconductor/HDF5Array/commit/e087336a0f4e7e408f04f1ed7d5fa95a936b706c)
+
+**Message:** update NEWS
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-04-15 01:35:24 UTC
+
+---
+
+### [`Bioconductor/HDF5Array`](https://github.com/Bioconductor/HDF5Array/commit/e9399298bc98f9907bece2446393140e18bfb250)
+
+**Message:** HDF5Array 1.35.17
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-04-15 01:12:05 UTC
+
+---
+
+### [`hpages/hovernethelp`](https://github.com/hpages/hovernethelp/commit/5dc64f1c389ac93efa57ad3809d6c6977b94f9f1)
+
+**Message:** update minicluster/JOURNAL_OF_RUNS.txt
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-04-14 17:38:58 UTC
+
+---
+
+### [`QIICR/dcmqi`](https://github.com/QIICR/dcmqi/commit/4e5b700bc97ef9da2cf4937f008a165338899a8f)
+
+**Message:** cmake: update version to 1.4.0
+
+**Author:** Andrey Fedorov
+
+**Date:** 2025-04-07 19:55:16 UTC
+
+---
+
+### [`QIICR/dcmqi`](https://github.com/QIICR/dcmqi/commit/c69a74248e43c8abe86d927af7f4724167fb585d)
+
+**Message:** Merge pull request #500 from QIICR/latest-dcmtk
+
+**Author:** Andrey Fedorov
+
+**Date:** 2025-04-07 16:55:13 UTC
+
+---
+
+### [`hpages/hovernethelp`](https://github.com/hpages/hovernethelp/commit/08f6eaeb6a13b472e8cecbf7fc83d088b3401f44)
+
+**Message:** infer_batch2.sh now pushes results to inferdata4 volume instead of inferdata3
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-04-01 15:41:17 UTC
+
+---
+
+### [`hpages/hovernethelp`](https://github.com/hpages/hovernethelp/commit/d9ad821c06f58f7a443ca9c4cd25a81f84dae478)
+
+**Message:** update minicluster/JOURNAL_OF_RUNS.txt
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-03-25 18:49:02 UTC
+
+---
+
+### [`seandavi/BiocBuildDB`](https://github.com/seandavi/BiocBuildDB/commit/bd5b01e25e7edbae810bc02d280a9b7dceee404c)
+
+**Message:** Clarify that the package is used to help build a database....
+
+**Author:** Sean Davis
+
+**Date:** 2025-03-20 02:00:22 UTC
+
+---
+
+### [`Bioconductor/HDF5Array`](https://github.com/Bioconductor/HDF5Array/commit/34b62190897b98d7337f9be06292fe5640454972)
+
+**Message:** minor edit
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-03-19 22:22:56 UTC
+
+---
+
+### [`shbrief/curatedMetagenomicDataODM`](https://github.com/shbrief/curatedMetagenomicDataODM/commit/e48c5a49175c30130d0bea43efc6ff6fbac3c85a)
+
+**Message:** Update body_site_details
+
+**Author:** krlong68
+
+**Date:** 2025-03-18 20:02:13 UTC
+
+---
+
+### [`seandavi/awesome-cancer-variant-resources`](https://github.com/seandavi/awesome-cancer-variant-resources/commit/493b8123d5adaf998147e8720dd463b287ce0c09)
+
+**Message:** Merge pull request #7 from lgeistlinger/master
+
+**Author:** Sean Davis
+
+**Date:** 2025-03-06 23:04:53 UTC
+
+---
+
+### [`seandavi/awesome-cancer-variant-resources`](https://github.com/seandavi/awesome-cancer-variant-resources/commit/cc98cf75f888701836a4a64c18c1dea2ad87a5f7)
+
+**Message:** add AlphaMissense
+
+**Author:** lgeistlinger
+
+**Date:** 2025-03-06 22:14:12 UTC
+
+---
+
+### [`seandavi/refinebioc`](https://github.com/seandavi/refinebioc/commit/33131f2c6d5be1870d3d82d2386418c3f2a25608)
+
+**Message:** Merge pull request #17 from ttriche/patch-1
+
+**Author:** Sean Davis
+
+**Date:** 2025-03-04 23:28:32 UTC
+
+---
+
+### [`Bioconductor/BiocHubsIngestR`](https://github.com/Bioconductor/BiocHubsIngestR/commit/09895350349bc559ccbd27dbc4b9d1ee1f5d63d6)
+
+**Message:** Bump version
+
+**Author:** Alexandru Mahmoud
+
+**Date:** 2025-02-27 17:00:06 UTC
+
+---
+
+### [`seandavi/refinebioc`](https://github.com/seandavi/refinebioc/commit/4e17ad816620568952e04bd5afd7d44e37e5d01c)
+
+**Message:** Update README.md
+
+**Author:** Tim Triche, Jr.
+
+**Date:** 2025-02-27 16:02:51 UTC
+
+---
+
+### [`Bioconductor/BiocHubsIngestR`](https://github.com/Bioconductor/BiocHubsIngestR/commit/a6bc6436e8f9ce2d9739a4a479c996f3efe6d8ab)
+
+**Message:** Update part size
+
+**Author:** Alexandru Mahmoud
+
+**Date:** 2025-02-27 15:19:15 UTC
+
+---
+
+### [`Bioconductor/BiocHubsIngestR`](https://github.com/Bioconductor/BiocHubsIngestR/commit/6ddc4e7e9dace66f14f9d3e00c927ef886cc5265)
+
+**Message:** Test multi-part upload
+
+**Author:** Alexandru Mahmoud
+
+**Date:** 2025-02-26 19:27:57 UTC
+
+---
+
+### [`seandavi/refinebioc`](https://github.com/seandavi/refinebioc/commit/d1f79a6f49a016337707a833824ac2a2943e5b52)
+
+**Message:** try fixing email on gh actions
+
+**Author:** Sean Davis
+
+**Date:** 2025-02-21 04:03:51 UTC
+
+---
+
+### [`seandavi/refinebioc`](https://github.com/seandavi/refinebioc/commit/a7b15f59b37150f9b6997f3fe9fc115375758a3d)
+
+**Message:** replace knitr with quarto
+
+**Author:** Sean Davis
+
+**Date:** 2025-02-21 03:41:49 UTC
+
+---
+
+### [`seandavi/refinebioc`](https://github.com/seandavi/refinebioc/commit/e34c4b03c2880e925a004e623ca097d760d25fcd)
+
+**Message:** fix vignette build
+
+**Author:** Sean Davis
+
+**Date:** 2025-02-21 03:37:35 UTC
+
+---
+
+### [`shbrief/curatedMetagenomicDataODM`](https://github.com/shbrief/curatedMetagenomicDataODM/commit/96746a3d403dc846eb9794db0c3b9069b5d13931)
+
+**Message:** Add dictionaries for "ancestry_details", "body_site_details", and "disease_details"; add Svetlana to curator list
+
+**Author:** krlong68
+
+**Date:** 2025-02-18 19:09:29 UTC
+
+---
+
+### [`seandavi/state-cancer-profile-scraper`](https://github.com/seandavi/state-cancer-profile-scraper/commit/a292cca9e46abed098f9b25793d8c891cd3e3c36)
+
+**Message:** Clarify readme intro
+
+**Author:** Sean Davis
+
+**Date:** 2025-02-11 00:18:39 UTC
+
+---
+
+### [`seandavi/state-cancer-profile-scraper`](https://github.com/seandavi/state-cancer-profile-scraper/commit/49ccc97937a5c048073e3d252a19311b7b2459fd)
+
+**Message:** Add update frequency
+
+**Author:** Sean Davis
+
+**Date:** 2025-02-10 23:02:05 UTC
+
+---
+
+### [`seandavi/state-cancer-profile-scraper`](https://github.com/seandavi/state-cancer-profile-scraper/commit/1d5c15d964ed9337a29b0dbd0eb7db4bc2676ce1)
+
+**Message:** Update README.md
+
+**Author:** Sean Davis
+
+**Date:** 2025-02-10 22:58:20 UTC
+
+---
+
+### [`seandavi/state-cancer-profile-scraper`](https://github.com/seandavi/state-cancer-profile-scraper/commit/702027ef78cf84dbd413f05887b2c8303a3cebf5)
+
+**Message:** Add clear download link.
+
+**Author:** Sean Davis
+
+**Date:** 2025-02-10 22:46:07 UTC
+
+---
+
+### [`seandavi/state-cancer-profile-scraper`](https://github.com/seandavi/state-cancer-profile-scraper/commit/85998019dba1b509048a53e9a5020ce361cf79a1)
+
+**Message:** update ignores
+
+**Author:** Sean Davis
+
+**Date:** 2025-02-10 22:41:38 UTC
+
+---
+
+### [`Bioconductor/S4Arrays`](https://github.com/Bioconductor/S4Arrays/commit/41a64ffe40d2e1d2d7092631794de918b5fdab2c)
+
+**Message:** S4Arrays 1.7.3
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-02-08 02:02:59 UTC
+
+---
+
+### [`shbrief/curatedMetagenomicDataODM`](https://github.com/shbrief/curatedMetagenomicDataODM/commit/c09d3eee3791a9319a001da8b87b5e7c6a430c7e)
+
+**Message:** Add non-NCIT terms to "treatment" dictionary; create .owl files for "probing_pocket_depth", "smoker", and "feces_phenotype" terms
+
+**Author:** krlong68
+
+**Date:** 2025-02-07 13:12:20 UTC
+
+---
+
+### [`Bioconductor/BiocHubsIngestR`](https://github.com/Bioconductor/BiocHubsIngestR/commit/a3b6ccaebd4b1429d52514e004d9af7bbbd55cee)
+
+**Message:** Tweaks
+
+**Author:** Alexandru Mahmoud
+
+**Date:** 2025-01-23 19:29:26 UTC
+
+---
+
+### [`Bioconductor/h5mread`](https://github.com/Bioconductor/h5mread/commit/8aced109b792a4a8c807481d6efc5e0d766004d4)
+
+**Message:** h5mread 0.99.4
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-01-21 21:44:07 UTC
+
+---
+
+### [`Bioconductor/h5mread`](https://github.com/Bioconductor/h5mread/commit/8d58c0947e539b76ab7336e4779e66157fb9db2b)
+
+**Message:** minor edit to vignette
+
+**Author:** Hervé Pagès
+
+**Date:** 2025-01-14 22:39:31 UTC
+
+---
+
+### [`Bioconductor/BiocHubsIngestR`](https://github.com/Bioconductor/BiocHubsIngestR/commit/3c8b3d02727e3dba09ce4f3830c6e3f039de84e2)
+
+**Message:** Remove License added by tempalte
+
+**Author:** Alexandru Mahmoud
+
+**Date:** 2025-01-10 20:59:10 UTC
+
+---
+
+### [`waldronlab/PublicDataResources`](https://github.com/waldronlab/PublicDataResources/commit/7a96b5ddb94a4cde40816e320fb7408e75f06855)
+
+**Message:** set actions/cache to v4
+
+**Author:** Marcel Ramos Pérez
+
+**Date:** 2025-01-06 21:26:21 UTC
+
+---
+
+### [`waldronlab/enrichOmics`](https://github.com/waldronlab/enrichOmics/commit/cc4ae720d4a1500f83b7b70f8114ec00eb28e7b1)
+
+**Message:** set actions/cache to v4
+
+**Author:** Marcel Ramos Pérez
+
+**Date:** 2025-01-06 21:24:40 UTC
+
+---
+
+### [`vjcitn/xenLite`](https://github.com/vjcitn/xenLite/commit/97b2b8e20b714dc60078fcfb0fbd1d9240ff257e)
+
+**Message:** Merge pull request #4 from vjcitn/devel
+
+**Author:** Vince Carey
+
+**Date:** 2024-11-27 11:38:02 UTC
+
+---
+
+### [`vjcitn/xenLite`](https://github.com/vjcitn/xenLite/commit/4bfc2f89020e462eea6823d08d561f11db2f70bf)
+
+**Message:** Merge pull request #3 from vjcitn/vincedev
+
+**Author:** Vince Carey
+
+**Date:** 2024-11-27 11:36:00 UTC
+
+---
+
+### [`waldronlab/HGNChelper`](https://github.com/waldronlab/HGNChelper/commit/42a787e43cb5cba0299b8193e6b2a28861ad5791)
+
+**Message:** update NEWS
+
+**Author:** Levi Waldron
+
+**Date:** 2024-11-16 16:08:23 UTC
+
+---
+
+### [`waldronlab/HGNChelper`](https://github.com/waldronlab/HGNChelper/commit/0874f323f606bcd94772361c2cc212abe2827407)
+
+**Message:** Bump version, update maps, suppress warning in splitstachshape::cSplit, update HGNC URL in documentation
+
+**Author:** Levi Waldron
+
+**Date:** 2024-11-16 15:53:39 UTC
+
+---
+
+### [`waldronlab/HGNChelper`](https://github.com/waldronlab/HGNChelper/commit/b055e04938ec079ac158ed0661391bcde63f4530)
+
+**Message:** update url, refers to #1
+
+**Author:** LiNk-NY
+
+**Date:** 2024-11-11 15:02:53 UTC
+
+---
+
+### [`vjcitn/xenLite`](https://github.com/vjcitn/xenLite/commit/2a0668358a2df0c55e2fbd5e73910a8029dafb25)
+
+**Message:** Merge pull request #2 from vjcitn/RELEASE_3_20
+
+**Author:** Vince Carey
+
+**Date:** 2024-10-31 05:07:15 UTC
+
+---
+
+### [`vjcitn/YESCDS`](https://github.com/vjcitn/YESCDS/commit/e089d143478245201c359ebfc6d09d101de4b910)
+
+**Message:** update the pkgdown site
+
+**Author:** vjcitn
+
+**Date:** 2024-10-30 12:26:08 UTC
+
+---
+
+### [`vjcitn/xenLite`](https://github.com/vjcitn/xenLite/commit/921c0573b73fd219fc2360a6435d072755028916)
+
+**Message:** bump x.y.z version to odd y following creation of RELEASE_3_20 branch
+
+**Author:** J Wokaty
+
+**Date:** 2024-10-29 15:33:39 UTC
+
+---
+
+### [`vjcitn/xenLite`](https://github.com/vjcitn/xenLite/commit/f59dc8b1d9a20186f46d17596ec245467e54366a)
+
+**Message:** bump x.y.z version to even y prior to creation of RELEASE_3_20 branch
+
+**Author:** J Wokaty
+
+**Date:** 2024-10-29 15:33:39 UTC
+
+---
+
+### [`vjcitn/YESCDS`](https://github.com/vjcitn/YESCDS/commit/4ccd488629dd002b1e7bd3df97fd941092417483)
+
+**Message:** passing check
+
+**Author:** vjcitn
+
+**Date:** 2024-08-02 14:05:14 UTC
+
+---
+
+### [`vjcitn/YESCDS`](https://github.com/vjcitn/YESCDS/commit/80d191b124ac549c07d70589aa1a7bd275378308)
+
+**Message:** moving along, dropping mut_stuff for now
+
+**Author:** vjcitn
+
+**Date:** 2024-08-02 11:34:25 UTC
+
+---
+
+### [`vjcitn/YESCDS`](https://github.com/vjcitn/YESCDS/commit/926f5cf14ad8dea6495ab82381f90dedc86b8b75)
+
+**Message:** update compressed data
+
+**Author:** vjcitn
+
+**Date:** 2024-08-02 11:24:15 UTC
+
+---
+
+### [`vjcitn/YESCDS`](https://github.com/vjcitn/YESCDS/commit/ccd5bc2d1ef46e7c732b13272b0a2085a15881ac)
+
+**Message:** adding hcc code causing problem with devtools::document?
+
+**Author:** vjcitn
+
+**Date:** 2024-08-02 09:50:51 UTC
+
+---
+
+### [`ccb-hms/scConform`](https://github.com/ccb-hms/scConform/commit/e1feb4fb1473e0d1ec760a16254fe01545f6bd01)
+
+**Message:** change param names and add ctb
+
+**Author:** DanielaCorbetta
+
+**Date:** 2024-07-25 15:02:51 UTC
+
+---
+
+### [`ccb-hms/scConform`](https://github.com/ccb-hms/scConform/commit/5253658e421b11b8596e9e45ae941c4ad4871a84)
+
+**Message:** add pkgdown css
+
+**Author:** DanielaCorbetta
+
+**Date:** 2024-07-02 20:17:11 UTC
+
+---
+
+### [`ccb-hms/scConform`](https://github.com/ccb-hms/scConform/commit/c3862e1741abfc1fdd57c0b5d4af8db9e4c29f4b)
+
+**Message:** Merge branch 'main' of https://github.com/ccb-hms/scConform
+
+**Author:** DanielaCorbetta
+
+**Date:** 2024-06-24 19:10:27 UTC
+
+---
+
+### [`ccb-hms/scConform`](https://github.com/ccb-hms/scConform/commit/930572cecbf8de2f279a3597c7de1df41ec05adb)
+
+**Message:** rm import foreach
+
+**Author:** DanielaCorbetta
+
+**Date:** 2024-06-24 19:10:25 UTC
+
+---
+
+### [`ccb-hms/scConform`](https://github.com/ccb-hms/scConform/commit/2369e8c3260b5f7c608ae1f221de0cd797612f0b)
+
+**Message:** Update check-bioc.yml
+
+**Author:** Daniela Corbetta
+
+**Date:** 2024-06-24 16:49:55 UTC
+
+---
+
+### [`waldronlab/HGNChelper`](https://github.com/waldronlab/HGNChelper/commit/a9619a2abfa7c6f1e0331b0c9c0cd7c16886eeeb)
+
+**Message:** version bump
+
+**Author:** Levi Waldron
+
+**Date:** 2024-05-18 04:16:43 UTC
+
+---
+
+### [`waldronlab/HGNChelper`](https://github.com/waldronlab/HGNChelper/commit/d53cc84f1113793b551c2f56d1e06411d7ff893a)
+
+**Message:** Documentation syntax
+
+**Author:** Levi Waldron
+
+**Date:** 2024-05-18 04:16:35 UTC
+
+---
+
+### [`seandavi/BiocBuildDB`](https://github.com/seandavi/BiocBuildDB/commit/25bdab41d175cfc5d1e824be885ec38854f74d7c)
+
+**Message:** Update process_new_build_reports.yaml
+
+**Author:** Sean Davis
+
+**Date:** 2024-02-29 18:07:08 UTC
+
+---
+
+### [`seandavi/BiocBuildDB`](https://github.com/seandavi/BiocBuildDB/commit/ca70379b942ec904abc3f1c091181e4fc61731fa)
+
+**Message:** Update process_new_build_reports.yaml
+
+**Author:** Sean Davis
+
+**Date:** 2024-02-29 18:04:58 UTC
+
+---
+
+### [`seandavi/BiocBuildDB`](https://github.com/seandavi/BiocBuildDB/commit/1abe25a96112e626c878a73b11b333a948c2f20c)
+
+**Message:** Update process_new_build_reports.yaml
+
+**Author:** Sean Davis
+
+**Date:** 2024-02-29 17:59:24 UTC
+
+---
+
+### [`seandavi/BiocBuildDB`](https://github.com/seandavi/BiocBuildDB/commit/0bcb929b7408f31d2eda92e86bd8e6248991ee19)
+
+**Message:** Update process_new_build_reports.yaml
+
+**Author:** Sean Davis
+
+**Date:** 2024-02-28 23:23:34 UTC
+
+---
+
+### [`seandavi/awesome-cancer-variant-resources`](https://github.com/seandavi/awesome-cancer-variant-resources/commit/8f7fcfc59f2bcfff4da51f7f6fa400fcace6c590)
+
+**Message:** Merge pull request #6 from CompOnco/master
+
+**Author:** Sean Davis
+
+**Date:** 2023-10-24 15:18:04 UTC
+
+---
+
+### [`seandavi/awesome-cancer-variant-resources`](https://github.com/seandavi/awesome-cancer-variant-resources/commit/20fd0ad4202d755610a3fbb3f2131e3e76786eed)
+
+**Message:** Update README.md
+
+**Author:** Aedin Culhane
+
+**Date:** 2023-10-24 15:04:59 UTC
+
+---
+
+### [`cornerstonejs/dicomParser`](https://github.com/cornerstonejs/dicomParser/commit/7d2084349bf2bdaffe74021e27b286a6c295ca66)
+
+**Message:** Merge pull request #261 from cornerstonejs/dependabot/npm_and_yarn/babel/traverse-7.23.2
+
+**Author:** yagni
+
+**Date:** 2023-10-17 21:50:44 UTC
+
+---
+
+### [`cornerstonejs/dicomParser`](https://github.com/cornerstonejs/dicomParser/commit/cd622a6d9b8430687eaeb7b5696df619d49ea019)
+
+**Message:** chore(deps-dev): bump @babel/traverse from 7.17.0 to 7.23.2
+
+**Author:** dependabot[bot]
+
+**Date:** 2023-10-17 16:09:07 UTC
+
+---
+
+### [`cornerstonejs/dicomParser`](https://github.com/cornerstonejs/dicomParser/commit/7fbbe7492ad167a676f1699dcdeb75f9df875a87)
+
+**Message:** Merge pull request #260 from cornerstonejs/dependabot/npm_and_yarn/word-wrap-1.2.5
+
+**Author:** yagni
+
+**Date:** 2023-08-21 14:05:27 UTC
+
+---
+
+### [`cornerstonejs/dicomParser`](https://github.com/cornerstonejs/dicomParser/commit/b686a23a5226bf3730d87dfd4d8b5e7132075d64)
+
+**Message:** chore(deps-dev): bump word-wrap from 1.2.3 to 1.2.5
+
+**Author:** dependabot[bot]
+
+**Date:** 2023-08-21 14:03:17 UTC
+
+---
+
+### [`cornerstonejs/dicomParser`](https://github.com/cornerstonejs/dicomParser/commit/c8abdd410cdc286000a661faa5cb9ef3fa5f91b8)
+
+**Message:** Merge pull request #259 from yagni/update-browser-tools
+
+**Author:** yagni
+
+**Date:** 2023-08-21 14:01:01 UTC
+
+---
+
+### [`cornerstonejs/cornerstoneTools`](https://github.com/cornerstonejs/cornerstoneTools/commit/dbf874f744a91fcf3242659052d6d64b84bb61a7)
+
+**Message:** Merge pull request #1550 from ViniciusResende/fix/seg-rendering-rescaling
+
+**Author:** Igor Octaviano
+
+**Date:** 2023-07-21 11:26:41 UTC
+
+---
+
+### [`cornerstonejs/cornerstoneTools`](https://github.com/cornerstonejs/cornerstoneTools/commit/4363285db54820972adf143faf54b138c53e0677)
+
+**Message:** improvement(SegRendering): added unit test file to test renderFill function
+
+**Author:** Vinícius Alves
+
+**Date:** 2023-07-21 11:06:20 UTC
+
+---
+
+### [`cornerstonejs/cornerstoneTools`](https://github.com/cornerstonejs/cornerstoneTools/commit/27bfacc2ee65612edd1a511cc01ebe7f64528e32)
+
+**Message:** fix(SegRendering): preserve canvas transform matrix after seg render
+
+**Author:** Vinícius Alves
+
+**Date:** 2023-07-21 11:04:48 UTC
+
+---
+
+### [`cornerstonejs/cornerstoneWADOImageLoader`](https://github.com/cornerstonejs/cornerstoneWADOImageLoader/commit/2d947aff9d8430bd9c1a1ee4c3a1d105e65708f3)
+
+**Message:** fix: copy buffer to prevent oom in workers (#454)
+
+**Author:** Ouwen Huang
+
+**Date:** 2023-06-14 03:09:47 UTC
+
+---
+
+### [`cornerstonejs/cornerstoneTools`](https://github.com/cornerstonejs/cornerstoneTools/commit/73cd5224782cc757275b495178c7889ba95eb152)
+
+**Message:** Update README.md
+
+**Author:** Alireza
+
+**Date:** 2023-06-12 17:58:00 UTC
+
+---
+
+### [`cornerstonejs/cornerstone`](https://github.com/cornerstonejs/cornerstone/commit/da4727841d56872b78ae60f4b7a1e58468b7fad6)
+
+**Message:** Update README.md
+
+**Author:** Alireza
+
+**Date:** 2023-06-12 17:57:43 UTC
+
+---
+
+### [`cornerstonejs/cornerstoneTools`](https://github.com/cornerstonejs/cornerstoneTools/commit/b38c944fe98f213f6128d4825041f0ba2d988a97)
+
+**Message:** Update README.md
+
+**Author:** Alireza
+
+**Date:** 2023-06-12 17:57:06 UTC
+
+---
+
+### [`cornerstonejs/cornerstone`](https://github.com/cornerstonejs/cornerstone/commit/a43669426326d764c9def7736396a687f2e32805)
+
+**Message:** Update README.md
+
+**Author:** Alireza
+
+**Date:** 2023-06-12 17:56:14 UTC
+
+---
+
+### [`waldronlab/MultiAssayExperiment.TCGA`](https://github.com/waldronlab/MultiAssayExperiment.TCGA/commit/bbde8f30879135bf0625fdd34b86b0daa1c437d0)
+
+**Message:** standardize barcodes for curation files
+
+**Author:** LiNK-NY
+
+**Date:** 2023-05-16 22:14:53 UTC
+
+---
+
+### [`waldronlab/MultiAssayExperiment.TCGA`](https://github.com/waldronlab/MultiAssayExperiment.TCGA/commit/8fc1590bc0fce1c335af0e007ced9e52de78492d)
+
+**Message:** use file instead of path
+
+**Author:** LiNK-NY
+
+**Date:** 2023-05-16 22:14:30 UTC
+
+---
+
+### [`waldronlab/MultiAssayExperiment.TCGA`](https://github.com/waldronlab/MultiAssayExperiment.TCGA/commit/96c643c0eb1ed39cb0c9ef79ceb428400663b8a6)
+
+**Message:** add version 2.1.1 section
+
+**Author:** LiNK-NY
+
+**Date:** 2023-05-02 19:14:16 UTC
+
+---
+
+### [`waldronlab/MultiAssayExperiment.TCGA`](https://github.com/waldronlab/MultiAssayExperiment.TCGA/commit/b1ef9985afeb79b3d97d66514eb4078eced78078)
+
+**Message:** allow flexible runs for only colData
+
+**Author:** LiNK-NY
+
+**Date:** 2023-05-02 19:10:57 UTC
+
+---
+
+### [`waldronlab/MultiAssayExperiment.TCGA`](https://github.com/waldronlab/MultiAssayExperiment.TCGA/commit/cc5b93ca68f541b345793f1ff67de0852be3f9e6)
+
+**Message:** minor updates
+
+**Author:** LiNK-NY
+
+**Date:** 2023-05-02 19:09:53 UTC
+
+---
+
+### [`cornerstonejs/cornerstoneWADOImageLoader`](https://github.com/cornerstonejs/cornerstoneWADOImageLoader/commit/093db6714c2593927bb764a0640e59bca4a6a41f)
+
+**Message:** Update README.md
+
+**Author:** Alireza
+
+**Date:** 2023-04-26 18:16:10 UTC
+
+---
+
+### [`cornerstonejs/cornerstoneWADOImageLoader`](https://github.com/cornerstonejs/cornerstoneWADOImageLoader/commit/fab3c4fcdc5e5ed688e70a27acb60004fc96fc36)
+
+**Message:** fix(suv display): fix scaling of non-SUV PT images (#526)
+
+**Author:** Patrick Wespi
+
+**Date:** 2023-04-14 02:19:47 UTC
+
+---
+
+### [`cornerstonejs/cornerstoneWADOImageLoader`](https://github.com/cornerstonejs/cornerstoneWADOImageLoader/commit/b8092fc20f6cf92fe7f1b40a4256f0ec529f444f)
+
+**Message:** feat(multiframe): fix the build for the multiframe (#524)
+
+**Author:** Alireza
+
+**Date:** 2023-04-01 01:51:37 UTC
+
+---
+
+### [`cornerstonejs/cornerstoneWADOImageLoader`](https://github.com/cornerstonejs/cornerstoneWADOImageLoader/commit/a10e369cbafa980c208ae6eeff00c0c31f0b71f1)
+
+**Message:** feat(multiframe): fix the build for multiframe (#523)
+
+**Author:** Alireza
+
+**Date:** 2023-04-01 01:41:21 UTC
+
+---
+
+### [`vjcitn/BiocOncoTK`](https://github.com/vjcitn/BiocOncoTK/commit/b9614f4e3e68275547251fe144c0f2e472f5829d)
+
+**Message:** Merge branch 'master' of https://github.com/vjcitn/BiocOncoTK
+
+**Author:** vjcitn
+
+**Date:** 2023-02-05 20:26:03 UTC
+
+---
+
+### [`vjcitn/BiocOncoTK`](https://github.com/vjcitn/BiocOncoTK/commit/40b8a2722aa57dcdd9d01241c439c544a0f0a97a)
+
+**Message:** add the Dockerfile for Dockstore
+
+**Author:** vjcitn
+
+**Date:** 2023-02-05 20:25:32 UTC
+
+---
+
+### [`vjcitn/BiocOncoTK`](https://github.com/vjcitn/BiocOncoTK/commit/46a6cde356cc0f3f7feb3401116be887e83f6827)
+
+**Message:** updating docker reference
+
+**Author:** vjcitn
+
+**Date:** 2023-02-05 18:16:52 UTC
+
+---
+
+### [`vjcitn/BiocOncoTK`](https://github.com/vjcitn/BiocOncoTK/commit/7001d6a2761c929c9688e16d36f034035afbaeb0)
+
+**Message:** adding test parameter file
+
+**Author:** vjcitn
+
+**Date:** 2023-02-05 13:58:20 UTC
+
+---
+
+### [`vjcitn/BiocOncoTK`](https://github.com/vjcitn/BiocOncoTK/commit/438fb9deea31b9f41bf4b10355b339d29507f244)
+
+**Message:** fix wdl
+
+**Author:** vjcitn
+
+**Date:** 2023-02-05 13:42:51 UTC
+
+---
+
+### [`CBICA/CaPTk`](https://github.com/CBICA/CaPTk/commit/cce88180d3159546a057b32ca9b4172d3ee2624d)
+
+**Message:** Merge pull request #1494 from AlexanderGetka-cbica/new-branch-roi-4d
+
+**Author:** Alexander Getka
+
+**Date:** 2022-05-28 07:23:58 UTC
+
+---
+
+### [`CBICA/CaPTk`](https://github.com/CBICA/CaPTk/commit/af70ae7abe3d51e7dc3d024b28cc1117f79bf278)
+
+**Message:** Make Sarthak's suggested edits, re-enable 4D saving
+
+**Author:** alexandergetka
+
+**Date:** 2022-05-27 19:10:27 UTC
+
+---
+
+### [`CBICA/CaPTk`](https://github.com/CBICA/CaPTk/commit/129805d97c1d4e048195718540d8ef9171ad7218)
+
+**Message:** 1.9.0 update w/ docs, readme, cmake
+
+**Author:** alexandergetka
+
+**Date:** 2022-05-27 06:44:06 UTC
+
+---
+
+### [`CBICA/CaPTk`](https://github.com/CBICA/CaPTk/commit/ae35ebd68161242d8eae03febaa2531b97703958)
+
+**Message:** Fix ROI orientation, especially 4D
+
+**Author:** alexandergetka
+
+**Date:** 2022-05-27 06:28:22 UTC
+
+---
+
+### [`CBICA/CaPTk`](https://github.com/CBICA/CaPTk/commit/33cf03cde8ac8e55bfe74e0e02803ddf26a89e3e)
+
+**Message:** Merge pull request #1493 from AlexanderGetka-cbica/add-ibsi2-gui
+
+**Author:** Alexander Getka
+
+**Date:** 2022-05-06 19:16:33 UTC
+
+---
+
+### [`cornerstonejs/cornerstone`](https://github.com/cornerstonejs/cornerstone/commit/56f51a0752955bab8a308bc900b95e28992cf3ea)
+
+**Message:** Merge pull request #569 from cornerstonejs/fix/broken-build-circle
+
+**Author:** Igor Octaviano
+
+**Date:** 2021-11-19 21:46:33 UTC
+
+---
+
+### [`cornerstonejs/cornerstone`](https://github.com/cornerstonejs/cornerstone/commit/02e52f2b1f787a145e672e36049efdb12d290e8e)
+
+**Message:** fix(circleci): update circleci/node image
+
+**Author:** igoroctaviano
+
+**Date:** 2021-11-19 21:41:52 UTC
+
+---
+
+### [`cornerstonejs/cornerstone`](https://github.com/cornerstonejs/cornerstone/commit/2bca56dcfeed9e9cbd74c8399e5b66bee9317930)
+
+**Message:** Merge pull request #567 from cornerstonejs/refactor/add-commitzen
+
+**Author:** Igor Octaviano
+
+**Date:** 2021-11-19 19:11:51 UTC
+
+---
+
+### [`waldronlab/PublicDataResources`](https://github.com/waldronlab/PublicDataResources/commit/487c33b94a9a2e854070e2649b0909f92d4f21b7)
+
+**Message:** magrittr import
+
+**Author:** lwaldron
+
+**Date:** 2021-04-29 10:43:54 UTC
+
+---
+
+### [`waldronlab/PublicDataResources`](https://github.com/waldronlab/PublicDataResources/commit/b5bb57e4d0a076867d3ce53237a9af200de64a55)
+
+**Message:** RELEASE_3_12, chunk names
+
+**Author:** lwaldron
+
+**Date:** 2021-04-29 10:22:10 UTC
+
+---
+
+### [`waldronlab/PublicDataResources`](https://github.com/waldronlab/PublicDataResources/commit/ad9a03fea49394b85cf301cc94904c10fb8689d6)
+
+**Message:** use release, names for main sections
+
+**Author:** lwaldron
+
+**Date:** 2021-04-29 09:58:41 UTC
+
+---
+
+### [`vjcitn/TxRegInfra2`](https://github.com/vjcitn/TxRegInfra2/commit/dec9ea9b250e82b70a7ad94fd0119c329d1a6919)
+
+**Message:** revise vignette to use $run
+
+**Author:** Vince Carey
+
+**Date:** 2020-12-31 01:01:51 UTC
+
+---
+
+### [`vjcitn/TxRegInfra2`](https://github.com/vjcitn/TxRegInfra2/commit/33a997013dcbd9a1b313decb6a32f6bffad07d9b)
+
+**Message:** synch with gh-pages
+
+**Author:** Vince Carey
+
+**Date:** 2020-12-26 02:26:54 UTC
+
+---
+
+### [`vjcitn/TxRegInfra2`](https://github.com/vjcitn/TxRegInfra2/commit/650bb0ef53a2c260830c1c04ff0131570333170d)
+
+**Message:** update content
+
+**Author:** Vince Carey
+
+**Date:** 2020-12-26 02:01:30 UTC
+
+---
+
+### [`vjcitn/TxRegInfra2`](https://github.com/vjcitn/TxRegInfra2/commit/ef33f37d1f51b393d02fb5e90ea51a62241e311a)
+
+**Message:** Merge branch 'main' into gh-pages -- bring in README.md
+
+**Author:** Vince Carey
+
+**Date:** 2020-12-26 01:41:10 UTC
+
+---
+
+### [`vjcitn/TxRegInfra2`](https://github.com/vjcitn/TxRegInfra2/commit/52342454ecb895ebb61247f41f5fa8632da521a0)
+
+**Message:** update README
+
+**Author:** Vince Carey
+
+**Date:** 2020-12-26 01:40:38 UTC
+
+---
+
+### [`waldronlab/enrichOmics`](https://github.com/waldronlab/enrichOmics/commit/3ef2d06d2a00a372aef1e01f3e1f0c5d8ea1c850)
+
+**Message:** Merge branch 'master' of https://github.com/waldronlab/enrichOmics
+
+**Author:** lgeistlinger
+
+**Date:** 2020-09-25 21:15:25 UTC
+
+---
+
+### [`waldronlab/enrichOmics`](https://github.com/waldronlab/enrichOmics/commit/4ba2deaaebc1195237efe779425c0b2d133c15b3)
+
+**Message:** post-conference updates
+
+**Author:** lgeistlinger
+
+**Date:** 2020-09-25 21:14:58 UTC
+
+---
+
+### [`waldronlab/enrichOmics`](https://github.com/waldronlab/enrichOmics/commit/71abc90ea5822907509f6ab3232bc4663d33d10c)
+
+**Message:** Merge pull request #11 from waldronlab/lwaldron-patch-1
+
+**Author:** lgeistlinger
+
+**Date:** 2020-07-28 17:55:44 UTC
+
+---
+
+### [`waldronlab/enrichOmics`](https://github.com/waldronlab/enrichOmics/commit/b8d7cd271cb9f57aa8938d1ec8483cb960897f69)
+
+**Message:** Use bioconductor/bioconductor_docker:bioc2020.1
+
+**Author:** Levi Waldron
+
+**Date:** 2020-07-28 17:48:35 UTC
+
+---
+
+### [`waldronlab/PublicDataResources`](https://github.com/waldronlab/PublicDataResources/commit/7da876a4527226e5c7a3011fbd0dc84297d0b603)
+
+**Message:** add link to slides
+
+**Author:** Levi Waldron
+
+**Date:** 2020-07-28 07:42:23 UTC
+
+---
+
+### [`seandavi/awesome-cancer-variant-resources`](https://github.com/seandavi/awesome-cancer-variant-resources/commit/cb2516696e522d14f06be35a3c635da37df39588)
+
+**Message:** Merge pull request #3 from MuhammedHasan/patch-1
+
+**Author:** Sean Davis
+
+**Date:** 2019-03-13 12:05:47 UTC
+
+---
+
