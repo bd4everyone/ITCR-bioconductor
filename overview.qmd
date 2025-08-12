@@ -2,7 +2,7 @@
 title: "U24CancerProject Overview"
 ---
 
-- This proposal efficiently extracts new value from published microbiome research through three aims:
+- This proposal details the expansion of the core Bioconductor software infrastructure by focusing on these key aims:
     - **First**, maintain and expand infrastructure for multimodal experiments and spatial transcriptomics, and connect the R/Bioconductor ecosystem with non-R image analysis tools to facilitate statistical analysis of histopathology images in the context of spatial transcriptomics and other molecular data.
     - **Second**, transition Bioconductor’s data and annotation-sharing tools to a federated, language-agnostic system that facilitates contribution and extension by the community, improves findability, enables automated improvement in metadata, and enhances utility for non-R users.
     - **Third**, create curated and integrated data repositories that make key datasets more findable and usable, and drive the development of the planned new data-sharing systems.
