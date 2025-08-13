@@ -331,6 +331,13 @@ cursor: pointer;
       <td>2025-07-28</td>
     </tr>
     <tr>
+      <td>U24CancerProject<a href="https://github.com/bd4everyone/U24CancerProject" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
+      <td>bd4everyone</td>
+      <td>Tracking for project 1U24CA289073-01 and aligned efforts</td>
+      <td>0</td>
+      <td>2025-08-12</td>
+    </tr>
+    <tr>
       <td><a href="https://www.bioconductor.org/packages/release/bioc/html/TENxIO.html" target="_blank" style="color: red;">TENxIO</a><a href="https://github.com/waldronlab/TENxIO" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://www.bioconductor.org/packages/release/bioc/html/TENxIO.html" target="_blank"> </a></td>
       <td>waldronlab</td>
       <td>Bioconductor interface to 10X files</td>
@@ -345,18 +352,18 @@ cursor: pointer;
       <td>2025-07-03</td>
     </tr>
     <tr>
+      <td>programets<a href="https://github.com/nih-cfde/programets" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
+      <td>nih-cfde</td>
+      <td></td>
+      <td>0</td>
+      <td>2025-08-13</td>
+    </tr>
+    <tr>
       <td>hovernethelp<a href="https://github.com/hpages/hovernethelp" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
       <td>hpages</td>
       <td></td>
       <td>0</td>
       <td>2025-05-22</td>
-    </tr>
-    <tr>
-      <td>programets<a href="https://github.com/nih-cfde/programets" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>nih-cfde</td>
-      <td></td>
-      <td>0</td>
-      <td>2025-07-28</td>
     </tr>
     <tr>
       <td>HGNCREST<a href="https://github.com/waldronlab/HGNCREST" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
@@ -366,11 +373,11 @@ cursor: pointer;
       <td>2025-05-09</td>
     </tr>
     <tr>
-      <td>U24CancerProject<a href="https://github.com/bd4everyone/U24CancerProject" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>bd4everyone</td>
-      <td>Tracking for project 1U24CA289073-01 and aligned efforts</td>
+      <td>RaggedExperiment_SoftNote<a href="https://github.com/waldronlab/RaggedExperiment_SoftNote" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
+      <td>waldronlab</td>
+      <td>exploration of RaggedExperiment</td>
       <td>0</td>
-      <td>2025-08-12</td>
+      <td>2025-01-06</td>
     </tr>
     <tr>
       <td><a href="https://www.bioconductor.org/packages/release/bioc/html/VisiumIO.html" target="_blank" style="color: red;">VisiumIO</a><a href="https://github.com/waldronlab/VisiumIO" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://www.bioconductor.org/packages/release/bioc/html/VisiumIO.html" target="_blank"> </a></td>
@@ -378,13 +385,6 @@ cursor: pointer;
       <td>Import spaceranger output and 10X spatial data</td>
       <td>0</td>
       <td>2025-05-07</td>
-    </tr>
-    <tr>
-      <td>u24Project<a href="https://github.com/bd4everyone/u24Project" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>bd4everyone</td>
-      <td>Tracking for project 1U24CA289073-01</td>
-      <td>0</td>
-      <td>2025-07-08</td>
     </tr>
     <tr>
       <td>Viewers<a href="https://github.com/OHIF/Viewers" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
@@ -412,7 +412,7 @@ cursor: pointer;
       <td>cornerstonejs</td>
       <td>Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the OHIF Viewer.</td>
       <td>780</td>
-      <td>2025-08-11</td>
+      <td>2025-08-12</td>
     </tr>
     <tr>
       <td>dicomParser<a href="https://github.com/cornerstonejs/dicomParser" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
@@ -446,7 +446,7 @@ cursor: pointer;
       <td>dcmqi<a href="https://github.com/QIICR/dcmqi" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
       <td>QIICR</td>
       <td>dcmqi (DICOM for Quantitative Imaging) is a C++ library for conversion between imaging research formats and the standard DICOM representation for image analysis results</td>
-      <td>262</td>
+      <td>263</td>
       <td>2025-07-17</td>
     </tr>
     <tr>
@@ -576,18 +576,18 @@ cursor: pointer;
       <td>2025-08-12</td>
     </tr>
     <tr>
-      <td>NGCHM-R<a href="https://github.com/MD-Anderson-Bioinformatics/NGCHM-R" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>MD-Anderson-Bioinformatics</td>
-      <td>An R package for creating Next-Generation Clustered Heat Maps (NG-CHM)</td>
-      <td>10</td>
-      <td>2025-07-07</td>
-    </tr>
-    <tr>
       <td><a href="https://bioconductor.org/packages/3.18/bioc/html/restfulSE.html" target="_blank" style="color: red;">restfulSE</a><a href="https://github.com/shwetagopaul92/restfulSE" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/3.18/bioc/html/restfulSE.html" target="_blank"> </a></td>
       <td>shwetagopaul92</td>
       <td>demonstration of SummarizedExperiment with assay component retrieved from remote HDF5 server</td>
       <td>10</td>
       <td>2022-10-06</td>
+    </tr>
+    <tr>
+      <td>NGCHM-R<a href="https://github.com/MD-Anderson-Bioinformatics/NGCHM-R" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
+      <td>MD-Anderson-Bioinformatics</td>
+      <td>An R package for creating Next-Generation Clustered Heat Maps (NG-CHM)</td>
+      <td>10</td>
+      <td>2025-07-07</td>
     </tr>
     <tr>
       <td>ontoProcPRE2021<a href="https://github.com/vjcitn/ontoProcPRE2021" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
@@ -646,13 +646,6 @@ cursor: pointer;
       <td>2023-03-08</td>
     </tr>
     <tr>
-      <td>pixi-mice-image-splitter<a href="https://github.com/preclinical-imaging/pixi-mice-image-splitter" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>preclinical-imaging</td>
-      <td>PIXI Mice Hotel Image Splitter</td>
-      <td>2</td>
-      <td>2024-12-10</td>
-    </tr>
-    <tr>
       <td>ivygapSEOLD<a href="https://github.com/vjcitn/ivygapSEOLD" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
       <td>vjcitn</td>
       <td>SummarizedExperiment for Ivy-GAP</td>
@@ -660,11 +653,11 @@ cursor: pointer;
       <td>2017-10-24</td>
     </tr>
     <tr>
-      <td>TxRegInfraObsolete<a href="https://github.com/vjcitn/TxRegInfraObsolete" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>vjcitn</td>
-      <td>Some Bioconductor-oriented infrastructure for TxRegQuery</td>
-      <td>1</td>
-      <td>2019-07-04</td>
+      <td>pixi-mice-image-splitter<a href="https://github.com/preclinical-imaging/pixi-mice-image-splitter" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
+      <td>preclinical-imaging</td>
+      <td>PIXI Mice Hotel Image Splitter</td>
+      <td>2</td>
+      <td>2024-12-10</td>
     </tr>
     <tr>
       <td>OpenLayersPlugin<a href="https://github.com/OHIF/OpenLayersPlugin" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
@@ -672,6 +665,13 @@ cursor: pointer;
       <td>Example OHIF plugin based using OpenLayers</td>
       <td>1</td>
       <td>2018-11-21</td>
+    </tr>
+    <tr>
+      <td>TxRegInfraObsolete<a href="https://github.com/vjcitn/TxRegInfraObsolete" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
+      <td>vjcitn</td>
+      <td>Some Bioconductor-oriented infrastructure for TxRegQuery</td>
+      <td>1</td>
+      <td>2019-07-04</td>
     </tr>
     <tr>
       <td>dicom4miccai<a href="https://github.com/QIICR/dicom4miccai" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
