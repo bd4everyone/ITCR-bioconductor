@@ -1,5 +1,5 @@
 ---
-title: "ITCR-bioconductor with Topic: u24ca289073" 
+title: "ITCR-biocondcutor projects with topics: u24ca289073"
 subtitle: "A list of repositories discovered on GitHub. The table is sortable by clicking on headers and searchable via the search box."
 format:
   html:
@@ -68,7 +68,7 @@ cursor: pointer;
       <td>HGNChelper<a href="https://github.com/waldronlab/HGNChelper" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
       <td>waldronlab</td>
       <td>Identify and correct invalid gene symbols</td>
-      <td>58</td>
+      <td>59</td>
       <td>2024-11-16</td>
     </tr>
     <tr>
@@ -254,18 +254,18 @@ cursor: pointer;
       <td>2025-07-21</td>
     </tr>
     <tr>
-      <td>YESCDS<a href="https://github.com/vjcitn/YESCDS" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>vjcitn</td>
-      <td>Cancer Data Science resources for DFCI YES for CURE</td>
-      <td>2</td>
-      <td>2024-10-30</td>
-    </tr>
-    <tr>
       <td><a href="https://bioconductor.org/packages/release/bioc/html/OmicsMLRepoR.html" target="_blank" style="color: red;">OmicsMLRepoR</a><a href="https://github.com/shbrief/OmicsMLRepoR" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/release/bioc/html/OmicsMLRepoR.html" target="_blank"> </a></td>
       <td>shbrief</td>
       <td>Bioconductor package to access the harmonized metadata through ontology</td>
       <td>2</td>
       <td>2025-07-26</td>
+    </tr>
+    <tr>
+      <td>YESCDS<a href="https://github.com/vjcitn/YESCDS" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
+      <td>vjcitn</td>
+      <td>Cancer Data Science resources for DFCI YES for CURE</td>
+      <td>2</td>
+      <td>2024-10-30</td>
     </tr>
     <tr>
       <td>refinebioc<a href="https://github.com/seandavi/refinebioc" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
@@ -296,18 +296,18 @@ cursor: pointer;
       <td>2025-05-09</td>
     </tr>
     <tr>
-      <td>BiocHubsIngestR<a href="https://github.com/Bioconductor/BiocHubsIngestR" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>Bioconductor</td>
-      <td>Helper package for users to upload data to temporary BiocHubsIngest endpoints</td>
-      <td>1</td>
-      <td>2025-02-27</td>
-    </tr>
-    <tr>
       <td><a href="https://bioconductor.org/packages/release/bioc/html/xenLite.html" target="_blank" style="color: red;">xenLite</a><a href="https://github.com/vjcitn/xenLite" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/release/bioc/html/xenLite.html" target="_blank"> </a></td>
       <td>vjcitn</td>
       <td>Lightweight approach to managing Xenium experiments</td>
       <td>1</td>
       <td>2024-11-27</td>
+    </tr>
+    <tr>
+      <td>BiocHubsIngestR<a href="https://github.com/Bioconductor/BiocHubsIngestR" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
+      <td>Bioconductor</td>
+      <td>Helper package for users to upload data to temporary BiocHubsIngest endpoints</td>
+      <td>1</td>
+      <td>2025-02-27</td>
     </tr>
     <tr>
       <td>TxRegInfra2<a href="https://github.com/vjcitn/TxRegInfra2" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
@@ -331,11 +331,11 @@ cursor: pointer;
       <td>2025-07-28</td>
     </tr>
     <tr>
-      <td>U24CancerProject<a href="https://github.com/bd4everyone/U24CancerProject" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>bd4everyone</td>
-      <td>Tracking for project 1U24CA289073-01 and aligned efforts</td>
+      <td><a href="https://bioconductor.org/packages/release/bioc/html/XeniumIO.html" target="_blank" style="color: red;">XeniumIO</a><a href="https://github.com/waldronlab/XeniumIO" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/release/bioc/html/XeniumIO.html" target="_blank"> </a></td>
+      <td>waldronlab</td>
+      <td>software for importing 10X Xenium data</td>
       <td>0</td>
-      <td>2025-08-12</td>
+      <td>2025-07-03</td>
     </tr>
     <tr>
       <td><a href="https://www.bioconductor.org/packages/release/bioc/html/TENxIO.html" target="_blank" style="color: red;">TENxIO</a><a href="https://github.com/waldronlab/TENxIO" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://www.bioconductor.org/packages/release/bioc/html/TENxIO.html" target="_blank"> </a></td>
@@ -345,11 +345,11 @@ cursor: pointer;
       <td>2025-05-08</td>
     </tr>
     <tr>
-      <td><a href="https://bioconductor.org/packages/release/bioc/html/XeniumIO.html" target="_blank" style="color: red;">XeniumIO</a><a href="https://github.com/waldronlab/XeniumIO" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/release/bioc/html/XeniumIO.html" target="_blank"> </a></td>
-      <td>waldronlab</td>
-      <td>software for importing 10X Xenium data</td>
+      <td>hovernethelp<a href="https://github.com/hpages/hovernethelp" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
+      <td>hpages</td>
+      <td></td>
       <td>0</td>
-      <td>2025-07-03</td>
+      <td>2025-05-22</td>
     </tr>
     <tr>
       <td>programets<a href="https://github.com/nih-cfde/programets" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
@@ -357,13 +357,6 @@ cursor: pointer;
       <td></td>
       <td>0</td>
       <td>2025-08-13</td>
-    </tr>
-    <tr>
-      <td>hovernethelp<a href="https://github.com/hpages/hovernethelp" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>hpages</td>
-      <td></td>
-      <td>0</td>
-      <td>2025-05-22</td>
     </tr>
     <tr>
       <td>HGNCREST<a href="https://github.com/waldronlab/HGNCREST" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
@@ -380,333 +373,18 @@ cursor: pointer;
       <td>2025-01-06</td>
     </tr>
     <tr>
+      <td>ITCR-bioconductor<a href="https://github.com/bd4everyone/ITCR-bioconductor" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
+      <td>bd4everyone</td>
+      <td>Tracking for project 1U24CA289073-01</td>
+      <td>0</td>
+      <td>2025-08-14</td>
+    </tr>
+    <tr>
       <td><a href="https://www.bioconductor.org/packages/release/bioc/html/VisiumIO.html" target="_blank" style="color: red;">VisiumIO</a><a href="https://github.com/waldronlab/VisiumIO" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://www.bioconductor.org/packages/release/bioc/html/VisiumIO.html" target="_blank"> </a></td>
       <td>waldronlab</td>
       <td>Import spaceranger output and 10X spatial data</td>
       <td>0</td>
       <td>2025-05-07</td>
-    </tr>
-    <tr>
-      <td>Viewers<a href="https://github.com/OHIF/Viewers" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>OHIF</td>
-      <td>OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages</td>
-      <td>3763</td>
-      <td>2025-08-11</td>
-    </tr>
-    <tr>
-      <td>cornerstone<a href="https://github.com/cornerstonejs/cornerstone" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>cornerstonejs</td>
-      <td>[Deprecated] Use Cornerstone3D Instead https://cornerstonejs.org/</td>
-      <td>2098</td>
-      <td>2024-03-07</td>
-    </tr>
-    <tr>
-      <td>pyradiomics<a href="https://github.com/AIM-Harvard/pyradiomics" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>AIM-Harvard</td>
-      <td>Open-source python package for the extraction of Radiomics features from 2D and 3D images and binary masks. Support: https://discourse.slicer.org/c/community/radiomics</td>
-      <td>1289</td>
-      <td>2025-08-12</td>
-    </tr>
-    <tr>
-      <td>cornerstone3D<a href="https://github.com/cornerstonejs/cornerstone3D" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>cornerstonejs</td>
-      <td>Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the OHIF Viewer.</td>
-      <td>780</td>
-      <td>2025-08-12</td>
-    </tr>
-    <tr>
-      <td>dicomParser<a href="https://github.com/cornerstonejs/dicomParser" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>cornerstonejs</td>
-      <td>JavaScript parser for DICOM Part 10 data</td>
-      <td>738</td>
-      <td>2024-05-16</td>
-    </tr>
-    <tr>
-      <td>cornerstoneTools<a href="https://github.com/cornerstonejs/cornerstoneTools" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>cornerstonejs</td>
-      <td>[Deprecated] Use Cornerstone3D Instead https://cornerstonejs.org/</td>
-      <td>588</td>
-      <td>2024-07-15</td>
-    </tr>
-    <tr>
-      <td>dcmjs<a href="https://github.com/dcmjs-org/dcmjs" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>dcmjs-org</td>
-      <td>Javascript implementation of DICOM manipulation</td>
-      <td>329</td>
-      <td>2025-08-12</td>
-    </tr>
-    <tr>
-      <td>cornerstoneWADOImageLoader<a href="https://github.com/cornerstonejs/cornerstoneWADOImageLoader" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>cornerstonejs</td>
-      <td>[Deprecated] Use Cornerstone3D Instead https://cornerstonejs.org/</td>
-      <td>286</td>
-      <td>2023-12-15</td>
-    </tr>
-    <tr>
-      <td>dcmqi<a href="https://github.com/QIICR/dcmqi" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>QIICR</td>
-      <td>dcmqi (DICOM for Quantitative Imaging) is a C++ library for conversion between imaging research formats and the standard DICOM representation for image analysis results</td>
-      <td>263</td>
-      <td>2025-07-17</td>
-    </tr>
-    <tr>
-      <td>CaPTk<a href="https://github.com/CBICA/CaPTk" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>CBICA</td>
-      <td>Cancer Imaging Phenomics Toolkit (CaPTk) is a software platform to perform image analysis and predictive modeling tasks. Documentation: https://cbica.github.io/CaPTk</td>
-      <td>191</td>
-      <td>2023-12-09</td>
-    </tr>
-    <tr>
-      <td>dicomweb-client<a href="https://github.com/dcmjs-org/dicomweb-client" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>dcmjs-org</td>
-      <td>JavaScript client for DICOMweb RESTful services</td>
-      <td>153</td>
-      <td>2025-08-06</td>
-    </tr>
-    <tr>
-      <td>react-vtkjs-viewport<a href="https://github.com/OHIF/react-vtkjs-viewport" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>OHIF</td>
-      <td>VTK.js image viewport component in React</td>
-      <td>147</td>
-      <td>2023-09-22</td>
-    </tr>
-    <tr>
-      <td>SlicerRadiomics<a href="https://github.com/AIM-Harvard/SlicerRadiomics" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>AIM-Harvard</td>
-      <td>A Slicer extension to provide a GUI around pyradiomics</td>
-      <td>114</td>
-      <td>2024-04-25</td>
-    </tr>
-    <tr>
-      <td>dicomweb-server<a href="https://github.com/dcmjs-org/dicomweb-server" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>dcmjs-org</td>
-      <td>Lightweight DICOMweb Server with CouchDB</td>
-      <td>106</td>
-      <td>2024-06-03</td>
-    </tr>
-    <tr>
-      <td>react-cornerstone-viewport<a href="https://github.com/cornerstonejs/react-cornerstone-viewport" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>cornerstonejs</td>
-      <td>[Deprecated] Use Cornerstone3D Instead https://cornerstonejs.org/</td>
-      <td>96</td>
-      <td>2024-12-10</td>
-    </tr>
-    <tr>
-      <td>react-viewerbase<a href="https://github.com/OHIF/react-viewerbase" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>OHIF</td>
-      <td>Core medical image viewer components built using React</td>
-      <td>87</td>
-      <td>2019-08-14</td>
-    </tr>
-    <tr>
-      <td>cornerstoneWebImageLoader<a href="https://github.com/cornerstonejs/cornerstoneWebImageLoader" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>cornerstonejs</td>
-      <td>Cornerstone Image Loader for Web Images (PNG, JPEG)</td>
-      <td>69</td>
-      <td>2023-06-23</td>
-    </tr>
-    <tr>
-      <td>cornerstoneMath<a href="https://github.com/cornerstonejs/cornerstoneMath" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>cornerstonejs</td>
-      <td>Math and computation geometry functionality for cornerstone</td>
-      <td>52</td>
-      <td>2023-03-01</td>
-    </tr>
-    <tr>
-      <td>civic-client<a href="https://github.com/griffithlab/civic-client" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>griffithlab</td>
-      <td>Web client for CIViC: Clinical Interpretations of Variants in Cancer</td>
-      <td>50</td>
-      <td>2023-11-28</td>
-    </tr>
-    <tr>
-      <td>civic-server<a href="https://github.com/griffithlab/civic-server" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>griffithlab</td>
-      <td>Backend Server for CIViC Project</td>
-      <td>39</td>
-      <td>2023-07-06</td>
-    </tr>
-    <tr>
-      <td>VTKPlugin<a href="https://github.com/OHIF/VTKPlugin" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>OHIF</td>
-      <td>OHIF Plugin for The Visualization Toolkit (VTK)</td>
-      <td>35</td>
-      <td>2018-10-03</td>
-    </tr>
-    <tr>
-      <td>cancer<a href="https://github.com/crowds-cure/cancer" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>crowds-cure</td>
-      <td>Crowd-sourcing annotations of medical images to advance cancer research</td>
-      <td>30</td>
-      <td>2025-04-24</td>
-    </tr>
-    <tr>
-      <td>ohif-core<a href="https://github.com/OHIF/ohif-core" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>OHIF</td>
-      <td>Useful functions and classes for building web-based medical imaging applications</td>
-      <td>25</td>
-      <td>2019-08-14</td>
-    </tr>
-    <tr>
-      <td>QuantitativeReporting<a href="https://github.com/QIICR/QuantitativeReporting" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>QIICR</td>
-      <td>Segmentation-based measurements with DICOM import and export of the results.</td>
-      <td>25</td>
-      <td>2025-06-10</td>
-    </tr>
-    <tr>
-      <td>civic-v2<a href="https://github.com/griffithlab/civic-v2" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>griffithlab</td>
-      <td>CIViC is an open access, open source, community-driven web resource for Clinical Interpretation of Variants in Cancer</td>
-      <td>24</td>
-      <td>2025-08-04</td>
-    </tr>
-    <tr>
-      <td>calculate-suv<a href="https://github.com/cornerstonejs/calculate-suv" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>cornerstonejs</td>
-      <td>Tiny library for calculating Standardized Uptake Value for Nuclear Medicine (i.e. PET, SPECT)</td>
-      <td>23</td>
-      <td>2023-09-08</td>
-    </tr>
-    <tr>
-      <td>NG-CHM<a href="https://github.com/MD-Anderson-Bioinformatics/NG-CHM" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>MD-Anderson-Bioinformatics</td>
-      <td>A dynamic, graphical environment for exploration of clustered or non-clustered heat map data in a web browser.</td>
-      <td>11</td>
-      <td>2025-08-12</td>
-    </tr>
-    <tr>
-      <td><a href="https://bioconductor.org/packages/3.18/bioc/html/restfulSE.html" target="_blank" style="color: red;">restfulSE</a><a href="https://github.com/shwetagopaul92/restfulSE" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/3.18/bioc/html/restfulSE.html" target="_blank"> </a></td>
-      <td>shwetagopaul92</td>
-      <td>demonstration of SummarizedExperiment with assay component retrieved from remote HDF5 server</td>
-      <td>10</td>
-      <td>2022-10-06</td>
-    </tr>
-    <tr>
-      <td>NGCHM-R<a href="https://github.com/MD-Anderson-Bioinformatics/NGCHM-R" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>MD-Anderson-Bioinformatics</td>
-      <td>An R package for creating Next-Generation Clustered Heat Maps (NG-CHM)</td>
-      <td>10</td>
-      <td>2025-07-07</td>
-    </tr>
-    <tr>
-      <td>ontoProcPRE2021<a href="https://github.com/vjcitn/ontoProcPRE2021" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>vjcitn</td>
-      <td>Ontology processing for Bioconductor</td>
-      <td>9</td>
-      <td>2021-03-15</td>
-    </tr>
-    <tr>
-      <td>SlicerDevelopmentToolbox<a href="https://github.com/QIICR/SlicerDevelopmentToolbox" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>QIICR</td>
-      <td>API for 3D Slicer extension development providing widgets, mixins, helpers, decorators etc.</td>
-      <td>7</td>
-      <td>2024-04-23</td>
-    </tr>
-    <tr>
-      <td>dicom4miccai-handson<a href="https://github.com/QIICR/dicom4miccai-handson" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>QIICR</td>
-      <td>Supporting materials for the MICCAI 2017 DICOM tutorial. See accompanying documentation at https://qiicr.gitbook.io/dicom4miccai-handson/</td>
-      <td>5</td>
-      <td>2019-06-05</td>
-    </tr>
-    <tr>
-      <td>SlicerPathology<a href="https://github.com/SBU-BMI/SlicerPathology" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>SBU-BMI</td>
-      <td>3D Slicer extension for Pathology segmentation tools</td>
-      <td>5</td>
-      <td>2018-05-24</td>
-    </tr>
-    <tr>
-      <td>dcm2tables<a href="https://github.com/QIICR/dcm2tables" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>QIICR</td>
-      <td></td>
-      <td>4</td>
-      <td>2019-07-18</td>
-    </tr>
-    <tr>
-      <td><a href="https://bioconductor.org/packages/release/bioc/html/pogos.html" target="_blank" style="color: red;">pogos</a><a href="https://github.com/vjcitn/pogos" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a><a href="https://bioconductor.org/packages/release/bioc/html/pogos.html" target="_blank"> </a></td>
-      <td>vjcitn</td>
-      <td>PharmacOGenomics Ontology Support</td>
-      <td>3</td>
-      <td>2023-02-05</td>
-    </tr>
-    <tr>
-      <td>pixi-plugin<a href="https://github.com/preclinical-imaging/pixi-plugin" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>preclinical-imaging</td>
-      <td>PIXI is an XNAT plugin designed to help manage and analyze preclinical imaging data.</td>
-      <td>2</td>
-      <td>2025-08-04</td>
-    </tr>
-    <tr>
-      <td>MultiOmicQC<a href="https://github.com/Bioconductor/MultiOmicQC" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>Bioconductor</td>
-      <td>Quality Control Measures for MultiOmics Experiments via MultiAssayExperiment</td>
-      <td>2</td>
-      <td>2023-03-08</td>
-    </tr>
-    <tr>
-      <td>ivygapSEOLD<a href="https://github.com/vjcitn/ivygapSEOLD" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>vjcitn</td>
-      <td>SummarizedExperiment for Ivy-GAP</td>
-      <td>2</td>
-      <td>2017-10-24</td>
-    </tr>
-    <tr>
-      <td>pixi-mice-image-splitter<a href="https://github.com/preclinical-imaging/pixi-mice-image-splitter" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>preclinical-imaging</td>
-      <td>PIXI Mice Hotel Image Splitter</td>
-      <td>2</td>
-      <td>2024-12-10</td>
-    </tr>
-    <tr>
-      <td>OpenLayersPlugin<a href="https://github.com/OHIF/OpenLayersPlugin" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>OHIF</td>
-      <td>Example OHIF plugin based using OpenLayers</td>
-      <td>1</td>
-      <td>2018-11-21</td>
-    </tr>
-    <tr>
-      <td>TxRegInfraObsolete<a href="https://github.com/vjcitn/TxRegInfraObsolete" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>vjcitn</td>
-      <td>Some Bioconductor-oriented infrastructure for TxRegQuery</td>
-      <td>1</td>
-      <td>2019-07-04</td>
-    </tr>
-    <tr>
-      <td>dicom4miccai<a href="https://github.com/QIICR/dicom4miccai" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>QIICR</td>
-      <td>Web site for the DICOM4MICCAI tutorial at the MICCAI conference (2017 and 2018)</td>
-      <td>1</td>
-      <td>2018-11-14</td>
-    </tr>
-    <tr>
-      <td>patelGBMSC<a href="https://github.com/vjcitn/patelGBMSC" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>vjcitn</td>
-      <td>Lightly curated version of single-cell RNA-seq quantifications from CONQUER for PMID 24925914</td>
-      <td>0</td>
-      <td>2018-02-25</td>
-    </tr>
-    <tr>
-      <td>restfulSEData<a href="https://github.com/shwetagopaul92/restfulSEData" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>shwetagopaul92</td>
-      <td></td>
-      <td>0</td>
-      <td>2018-05-03</td>
-    </tr>
-    <tr>
-      <td>docker-dcmtk-cli<a href="https://github.com/QIICR/docker-dcmtk-cli" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>QIICR</td>
-      <td>Repository to keep Dockerfiles for automated Docker builds of DCMTK</td>
-      <td>0</td>
-      <td>2017-05-16</td>
-    </tr>
-    <tr>
-      <td>CRAVAT<a href="https://github.com/KarchinLab/CRAVAT" target="_blank"><img src="githubicon.svg" style="height: 0.9em; vertical-align: middle; margin-left: 10px; margin-right: 10px"></a></td>
-      <td>KarchinLab</td>
-      <td></td>
-      <td>0</td>
-      <td>2017-06-29</td>
     </tr>
   </tbody>
 </table>
