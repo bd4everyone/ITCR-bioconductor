@@ -1,5 +1,5 @@
 ---
-title: "U24CancerProject Overview"
+title: "ITCR-bioconductor Overview"
 ---
 
 - This proposal details the expansion of the core Bioconductor software infrastructure by focusing on these key aims:
