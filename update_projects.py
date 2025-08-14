@@ -14,12 +14,7 @@ SEARCH_MODE = 'TOPICS'
 
 # --- Search Terms ---
 # For 'TOPICS' mode, provide a list of topics.
-#searches for repos with both topics -- only three repositories with both topics
-SEARCH_TOPICS = ["u24ca289073","nci-itcr"]
-#49 projects with topic nci-itcr
-SEARCH_TOPICS_1 = ["nci-itcr"]
-#49/50 projects with topic u24
-SEARCH_TOPICS_2 = ["u24ca289073"]
+SEARCH_TOPICS = ["u24ca289073"]
 
 # For 'ORG' mode, provide the organization's name.
 SEARCH_ORG = "exampleorg"
@@ -28,17 +23,17 @@ SEARCH_ORG = "exampleorg"
 SEARCH_USER = "exampleuser"
 
 #--------------------Hardcode Biocondcutor url mapping -------------------------------------
-#hardcode u24,nci-itcr bioconductor packages
-#check for nci-itcr packages in biocondcutor - step through repo page
-HARDCODED_BIOC_URLS = {"MultiAssayExperiment" : "https://www.bioconductor.org/packages/release/bioc/html/MultiAssayExperiment.html","BiocParallel" : "https://www.bioconductor.org/packages/release/bioc/html/BiocParallel.html","SpatialExperiment" : "https://www.bioconductor.org/packages/release/bioc/html/SpatialExperiment.html", "curatedTCGAData" : "https://www.bioconductor.org/packages/release/data/experiment/html/curatedTCGAData.html","cBioPortalData" : "https://www.bioconductor.org/packages/release/bioc/html/cBioPortalData.html","TCGAutils" : "https://www.bioconductor.org/packages/release/bioc/html/TCGAutils.html","DelayedArray" : "https://bioconductor.org/packages/release/bioc/html/DelayedArray.html","BiocPkgTools" : "https://www.bioconductor.org/packages/release/bioc/html/BiocPkgTools.html","AnnotationHub" : "https://bioconductor.org/packages/devel/bioc/html/AnnotationHub.html","SingleCellMultiModal" : "https://www.bioconductor.org/packages/release/data/experiment/html/SingleCellMultiModal.html","GSEABenchmarkeR" : "https://bioconductor.org/packages/release/bioc/html/GSEABenchmarkeR.html","HDF5Array" : "https://www.bioconductor.org/packages/release/bioc/html/HDF5Array.html","curatedOvarianData" : "https://www.bioconductor.org/packages/release/data/experiment/html/curatedOvarianData.html","SparseArray" : "https://bioconductor.org/packages/devel/bioc/html/SparseArray.html","CNVRanger" : "https://bioconductor.org/packages/devel/bioc/html/CNVRanger.html","S4Arrays" : "https://www.bioconductor.org/packages/release/bioc/html/S4Arrays.html","h5mread" : "https://bioconductor.org/packages/release/bioc/html/h5mread.html","VisiumIO" : "https://www.bioconductor.org/packages/release/bioc/html/VisiumIO.html","TENxIO" : "https://www.bioconductor.org/packages/release/bioc/html/TENxIO.html","pogos" : "https://bioconductor.org/packages/release/bioc/html/pogos.html","restfulSE" : "https://bioconductor.org/packages/3.18/bioc/html/restfulSE.html"}
+HARDCODED_BIOC_URLS = {"MultiAssayExperiment" : "https://www.bioconductor.org/packages/release/bioc/html/MultiAssayExperiment.html","BiocParallel" : "https://www.bioconductor.org/packages/release/bioc/html/BiocParallel.html","SpatialExperiment" : "https://www.bioconductor.org/packages/release/bioc/html/SpatialExperiment.html", "curatedTCGAData" : "https://www.bioconductor.org/packages/release/data/experiment/html/curatedTCGAData.html","cBioPortalData" : "https://www.bioconductor.org/packages/release/bioc/html/cBioPortalData.html","TCGAutils" : "https://www.bioconductor.org/packages/release/bioc/html/TCGAutils.html","DelayedArray" : "https://bioconductor.org/packages/release/bioc/html/DelayedArray.html","BiocPkgTools" : "https://www.bioconductor.org/packages/release/bioc/html/BiocPkgTools.html","AnnotationHub" : "https://bioconductor.org/packages/devel/bioc/html/AnnotationHub.html","SingleCellMultiModal" : "https://www.bioconductor.org/packages/release/data/experiment/html/SingleCellMultiModal.html","GSEABenchmarkeR" : "https://bioconductor.org/packages/release/bioc/html/GSEABenchmarkeR.html","HDF5Array" : "https://www.bioconductor.org/packages/release/bioc/html/HDF5Array.html","curatedOvarianData" : "https://www.bioconductor.org/packages/release/data/experiment/html/curatedOvarianData.html","SparseArray" : "https://bioconductor.org/packages/devel/bioc/html/SparseArray.html","CNVRanger" : "https://bioconductor.org/packages/devel/bioc/html/CNVRanger.html","S4Arrays" : "https://www.bioconductor.org/packages/release/bioc/html/S4Arrays.html","h5mread" : "https://bioconductor.org/packages/release/bioc/html/h5mread.html","VisiumIO" : "https://www.bioconductor.org/packages/release/bioc/html/VisiumIO.html","TENxIO" : "https://www.bioconductor.org/packages/release/bioc/html/TENxIO.html"}
+
+
+
 # ==============================================================================
 
 # --- Build the search query based on the selected mode ---
 query_parts = []
 title = ""
 if SEARCH_MODE == 'TOPICS':
-    url_1='https://api.github.com/search/repositories?q=topic:u24ca289073&per_page=100'
-    url_2='https://api.github.com/search/repositories?q=topic:nci-itcr&per_page=100'
+    query_parts = [f"topic:{topic}" for topic in SEARCH_TOPICS]
     title = f"Projects with Topics: {', '.join(SEARCH_TOPICS)}"
 elif SEARCH_MODE == 'ORG':
     query_parts.append(f"org:{SEARCH_ORG}")
@@ -48,9 +43,8 @@ elif SEARCH_MODE == 'USER':
     title = f"Projects for User: {SEARCH_USER}"
 
 #url equals github url
-#search_query = "("+".join(query_parts_1,))"
-#search_query = "+".join(query_parts)
-
+search_query = "+".join(query_parts)
+url = f"https://api.github.com/search/repositories?q={search_query}&per_page=100"
 # --- Get data from GitHub API ---
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 headers = {"Authorization": f"token {GITHUB_TOKEN}"} if GITHUB_TOKEN else None
@@ -59,22 +53,14 @@ if not GITHUB_TOKEN:
     print("Warning: GITHUB_TOKEN environment variable not set.")
 
 try:
-    response_1 = requests.get(url_1, headers=headers)
-    response_1.raise_for_status()
-    data_1 = response_1.json()
-    response_2 = requests.get(url_2, headers=headers)
-    response_2.raise_for_status()
-    data_2 = response_2.json()
-    repo_list_1 = data_1['items']
-    repo_list_2 = data_2['items']
-    combined_repos = {repo['id']: repo for repo in repo_list_1}
-    combined_repos.update({repo['id']: repo for repo in repo_list_2})
-    # Convert the dictionary back to a list of repositories
-    final_repo_list = list(combined_repos.values())
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
+
+    data = response.json()
     projects = []
     repo_list_for_json = []
-    for item in final_repo_list:
-    #
+
+    for item in data["items"]:
         # Sanitize description to prevent HTML issues
         description = escape(item["description"]) if item["description"] else ""
         repo_name = item["name"]
@@ -129,7 +115,7 @@ try:
         # Write the content to an quarto markdown file
         with open("projects.qmd", "w", encoding="utf-8") as f:
             f.write("---\n")
-            f.write('title: "U24CancerProjects with Topics: u24ca289073 or nci-itcr" \n')
+            f.write('title: "ITCR-biocondcutor projects with topics: u24ca289073"\n')
             f.write('subtitle: "A list of repositories discovered on GitHub. The table is sortable by clicking on headers and searchable via the search box."\n')
             f.write("format:\n")
             f.write("  html:\n")
